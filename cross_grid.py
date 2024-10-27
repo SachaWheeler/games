@@ -5,16 +5,15 @@ import nltk
 import itertools
 
 # nltk.download('words')
-WORD_LENGTH = 4
+WORD_LENGTH = 5
 FILENAME="words_alpha_3.txt"
 
 def get_word_list(filename=FILENAME):
     with open(filename, "r") as file:
-        # Read words from the file, filter for WORD_LENGTH-letter lowercase words
         words = [word.strip().lower() for word in file \
                 if len(word.strip()) in [WORD_LENGTH, WORD_LENGTH - 1] and \
                 word.strip().isalpha()]
-        # print(words)
+
         print(len(words))
 
         first  = {word + " " for word in words if len(word) == WORD_LENGTH - 1}
@@ -42,7 +41,7 @@ def create_word_grid(first_row, middle_row, last_row):
                 if not set(grid).intersection(columns) and all(col in all_words for col in columns):
                     return grid
 
-    return None  # Return None if no valid grid is found
+    return None
 
 
 def display_grid(grid):
@@ -53,7 +52,6 @@ def display_grid(grid):
         print("\nColumns:")
         for i in range(WORD_LENGTH):
             print("".join(row[i] for row in grid))
-        print(f"{count=}")
     else:
         print("No valid grid found.")
 
