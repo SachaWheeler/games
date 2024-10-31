@@ -1495,3 +1495,22 @@ t r e i n
   s r n f
 
 
+----------------
+5x5 Grid of words in 2.88s:
+words_alpha_2.txt
+
+w a n t  
+a r e a s
+j a c o b
+d u t c h
+  a l s o
+
+Columns:
+
+w a j d  
+a r a u a
+n e c t l
+t a o c s
+  s b h o
+
+
