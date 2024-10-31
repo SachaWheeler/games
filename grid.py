@@ -8,8 +8,10 @@ def filter_wordlist(wordlist, grid, row_index):
     """
     grid_size = len(grid[0]) if grid else len(wordlist[0])
     filtered_words = []
+    print(f"{grid=}")
 
     for word in wordlist:
+        # print(f"{word=} {grid=}")
         valid_word = True
         for col in range(grid_size):
             if row_index > 0 and len(grid) >= row_index:
@@ -40,6 +42,7 @@ def fill_grid(wordlist, grid, N):
 
     # Choose a random word from the filtered list
     next_word = random.choice(filtered_wordlist)
+    print(F"{next_word=}")
     grid.append(next_word)
 
     # Recursive call to fill the next row
@@ -73,9 +76,9 @@ FILENAME="words_alpha_2.txt"
 N = 5
 
 with open(FILENAME, "r") as file:
-    wordlist = [word.strip().lower() for word in file \
+    wordlist = {word.strip().lower() for word in file \
             if len(word.strip()) == N and \
-            word.strip().isalpha()]
+            word.strip().isalpha()}
 
 
 

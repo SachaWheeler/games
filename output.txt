@@ -1514,3 +1514,114 @@ t a o c s
   s b h o
 
 
+----------------
+5x5 Grid of words in 0.54s:
+words_alpha_2.txt
+
+r e e d  
+a n g r y
+e q u a l
+s t o o d
+  e a s e
+
+Columns:
+
+r a e s  
+e n q t e
+e g u o a
+d r a o s
+  y l d e
+
+
+----------------
+6x6 Grid of words in 0.66s:
+words_alpha_2.txt
+
+r e b e l  
+s o c k e t
+g u i l t y
+l u x u r y
+s e r i e s
+  m e t r o
+
+Columns:
+
+r s g l s  
+e o u u e m
+b c i x r e
+e k l u i t
+l e t r e r
+  t y y s o
+
+
+----------------
+6x6 Grid of words in 0.59s:
+words_alpha_2.txt
+
+p a i n t  
+u n w r a p
+t h r o w n
+p h o n e s
+b o a r d s
+  t y l e r
+
+Columns:
+
+p u t p b  
+a n h h o t
+i w r o a y
+n r o n r l
+t a w e d e
+  p n s s r
+
+
+----------------
+8x8 Grid of words in 0.82s:
+words_alpha_2.txt
+
+p a t r i c k  
+m e a s u r e s
+g a m b l i n g
+m i d l a n d s
+e x p e c t e d
+c e m e t e r y
+r e p o r t e d
+  l a r g e s t
+
+Columns:
+
+p m g m e c r  
+a e a i x e e l
+t a m d p m p a
+r s b l e e o r
+i u l a c t r g
+c r i n t e t e
+k e n d e r e s
+  s g s d y d t
+
+
+----------------
+8x8 Grid of words in 0.67s:
+words_alpha_2.txt
+
+r e p r i n t  
+o v e r c o m e
+s c o t t i s h
+f i x t u r e s
+s t e r l i n g
+p o r t a b l e
+m i l l i o n s
+  a c t r e s s
+
+Columns:
+
+r o s f s p m  
+e v c i t o i a
+p e o x e r l c
+r r t t r t l t
+i c t u l a i r
+n o i r i b o e
+t m s e n l n s
+  e h s g e s s
+
+

@@ -8,7 +8,7 @@ import time
 
 
 # nltk.download('words')
-LENGTH = 5
+LENGTH = 8
 FILENAME="words_alpha_2.txt"
 
 def get_word_list(filename=FILENAME):
@@ -41,12 +41,12 @@ def regex_exists(word_list, start_char, end_char):
 
     matches = any(regex.search(word) for word in word_list)
     if not matches:
-        print("-", pair)
+        # print("-", pair)
         NO_MATCHES.add(pair)
     else:
         MATCHES.add(pair)
-        print("+", pair)
-    print(f"{pair=}, {pattern=}, {matches=} {spaces=}")
+        # print("+", pair)
+    # print(f"{pair=}, {pattern=}, {matches=} {spaces=}")
 
     return matches
 
@@ -89,7 +89,7 @@ def create_word_grid(first_row, middle_row, last_row):
                         cols = ["".join(r[i] for r in grid) for i in range(LENGTH)]
 
                         for col in cols:
-                            print(f"testing {col[:row+1]=} {col[-1]=}")
+                            # print(f"testing {col[:row+1]=} {col[-1]=}")
                             if not regex_exists(all_words, col[:row+1], col[-1]):
                                 # skip word
                                 no_match = True
