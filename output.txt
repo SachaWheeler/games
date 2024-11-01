@@ -2347,3 +2347,114 @@ o u r
 u s a
 
 
+----------------
+3x3 Grid of words in 0.00s:
+x
+
+w o o
+w o o
+w o o
+
+Columns:
+
+w w w
+o o o
+o o o
+
+
+----------------
+4x4 Grid of words in 3.04s:
+x
+
+g l o p
+r a s a
+a d a i
+t y r r
+
+Columns:
+
+g r a t
+l a d y
+o s a r
+p a i r
+
+
+----------------
+3x3 Grid of words in 0.23s:
+words_alpha_2.txt
+
+h t  
+s a y
+  b o
+
+Columns:
+
+h s  
+t a b
+  y o
+
+
+----------------
+3x3 Grid of words in 50.04s:
+words_alpha_2.txt
+
+e x t
+a m d
+u l  
+
+Columns:
+
+e a u
+x m l
+t d  
+
+
+----------------
+4x4 Grid of words in 20.47s:
+words_alpha_2.txt
+
+h e a t
+a c r e
+t h e m
+s o a p
+
+Columns:
+
+h a t s
+e c h o
+a r e a
+t e m p
+
+
+----------------
+3x3 Grid of words in 0.09s:
+nouns.txt
+
+a r m
+e y e
+c a n
+
+Columns:
+
+a e c
+r y a
+m e n
+
+
+----------------
+4x4 Grid of words in 17.97s:
+nouns.txt
+
+k a c h
+e c h o
+a r e s
+n e w t
+
+Columns:
+
+k e a n
+a c r e
+c h e w
+h o s t
+
+
