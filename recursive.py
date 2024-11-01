@@ -1,70 +1,101 @@
 #!/usr/bin/env python
 import re
+import time
+from nltk.corpus import words
 
-def filter_words(wordlist, length):
-    """Filter words of a specific length from the wordlist."""
-    return [word for word in wordlist if len(word) == length]
-
-def is_valid(word, column_regex, position):
-    """Check if a word can fit in the current row given column regex patterns."""
-    return all(column_regex[i].match(word[i]) for i in range(position))
-
-def build_grid(wordlist, N, grid=[]):
-    """
-    Recursive function to build an N x N grid where each row and column forms
-    a valid word from the wordlist.
-    """
-    # Base case: if grid is complete, return it
-    if len(grid) == N:
+def create_grid(wordlist, N):
+    grid = [['' for _ in range(N)] for _ in range(N)]
+    if fill_grid(grid, 0, N, wordlist):
         return grid
-
-    # If grid is empty, start by picking any word for the first row
-    if not grid:
-        for word in wordlist:
-            result = build_grid(wordlist, N, grid + [word])
-            # print(result)
-            if result:
-                return result
+    else:
+        print("No solution found.")
         return None
 
-    # Generate column regex patterns based on current grid state
-    column_regex = [re.compile(''.join([grid[row][col] if row < len(grid) else '.'
-                                        for row in range(N)])) for col in range(N)]
-    print(grid, column_regex)
+def fill_grid(grid, row, N, wordlist):
+    # Base case: all rows are filled
+    if row == N:
+        return True
 
-    # filter wordlist by ALL of the regex conditions
-    filtered_wordlist = [
-            word for word in wordlist
-            if all(pattern.search(word) for pattern in column_regex)
-    ]
-    print(filtered_wordlist)
-    exit
-
-    # Try adding a word to the next row, respecting the column constraints
+    # Try each word in the wordlist for the current row
     for word in wordlist:
-        if is_valid(word, column_regex, len(grid)):
-            result = build_grid(wordlist, N, grid + [word])
-            if result:
-                return result
+        # Place the word in the current row
+        grid[row] = list(word)
+        print(grid, word, end='\r')
 
-    return None  # No valid grid found
+        # Check if this row is valid by examining each column regex
+        if all(has_valid_column_match(grid,
+            col, N, wordlist, used_words_in_grid(grid)) for col in range(N)):
+            # Recursively try to fill the next row
+            if fill_grid(grid, row + 1, N, wordlist):
+                return True
+
+        # Undo the row placement (backtracking)
+        grid[row] = [''] * N
+
+    # No valid words found for this configuration
+    return False
+
+def has_valid_column_match(grid, col, N, wordlist, used_words):
+    # Construct a partial regex pattern for the current column
+    pattern = ''.join(grid[row][col] if grid[row][col] else '.' for row in range(N))
+    regex = re.compile(f"^{pattern}$")
+
+    # Check if there's at least one word in wordlist that matches the column pattern
+    # and is not already used in any row of the grid
+    return any(regex.match(word) and word not in used_words for word in wordlist)
+
+def used_words_in_grid(grid):
+    # Gather a set of all words currently used in the rows of the grid
+    return {''.join(row) for row in grid if all(row)}
 
 
-FILENAME="words_alpha_2.txt"
+def out(output, message):
+    print(message)
+    output.write(message + "\n")
+
+def display_grid(grid, execution_time):
+    if grid:
+        with open('output.txt', 'a') as output:
+            out(output, f"----------------\n"
+            f"{N}x{N} Grid of words in {execution_time:.2f}s:\n"
+            f"{FILENAME if STATIC_WORDLIST else 'nltk'}\n")
+
+            for row in grid:
+                out(output, " ".join(row))
+            out(output, "\nColumns:\n")
+            for i in range(N):
+                out(output, " ".join(row[i] for row in grid))
+            out(output, "\n")
+    else:
+        print("No valid grid found.")
+
+
+FILENAME="names.txt"
+STATIC_WORDLIST = True  # False uses nltk
 N = 5
 
-with open(FILENAME, "r") as file:
-    wordlist = {word.strip().lower() for word in file \
-            if len(word.strip()) == N and \
-            word.strip().isalpha()}
+if __name__ == "__main__":
+    print(f"starting with {N=}")
 
-filtered_wordlist = filter_words(wordlist, N)
-grid = build_grid(filtered_wordlist, N)
+    if STATIC_WORDLIST:
+        with open(FILENAME, "r") as file:
+            wordlist = {word.strip().lower() for word in file \
+                    if len(word.strip()) == N and \
+                    word.strip().isalpha()}
+    else:
+        wordlist = set(word.strip().lower() for word in words.words() \
+                if len(word.strip()) == N and \
+                word.strip().isalpha())
 
-if grid:
-    print("\nGenerated Grid:")
-    for row in grid:
-        print(row)
-else:
-    print("No valid grid found.")
+    # print(wordlist)
+    start_time = time.time()
+
+    grid = create_grid(wordlist, N)
+    print()
+
+    end_time = time.time()
+    execution_time = end_time - start_time
+    print(f"done in {execution_time:.0f}s")
+
+    display_grid(grid, execution_time)
 
