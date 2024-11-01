@@ -2,6 +2,8 @@
 import re
 import time
 from nltk.corpus import words
+import argparse
+import os
 
 def create_grid(wordlist, N):
     grid = [['' for _ in range(N)] for _ in range(N)]
@@ -70,18 +72,34 @@ def display_grid(grid, execution_time):
     else:
         print("No valid grid found.")
 
+parser = argparse.ArgumentParser(
+        description="enter an optional dictionary path and N.")
 
-FILENAME="french.txt"
-N = 4
+parser.add_argument("file", nargs="?", type=str,
+        help="Path to a dictionary file")
+parser.add_argument("number", nargs="?", type=int,
+        help="Size of grid")
+
+args = parser.parse_args()
+
+if args.file and os.path.isfile(args.file):
+    FILENAME=args.file
+else:
+    FILENAME="words_alpha_2.txt"
+
+if args.number is not None and args.number > 1 and args.number < 10:
+    N = args.number
+else:
+    N = 4
 
 if __name__ == "__main__":
     print(f"starting with {N=}, {FILENAME if FILENAME else 'nltk'}")
 
     try:
         with open(FILENAME, "r") as file:
-            wordlist = {word.strip().lower() for word in file \
+            wordlist = set(word.strip().lower() for word in file \
                     if len(word.strip()) == N and \
-                    word.strip().isalpha()}
+                    word.strip().isalpha())
     except:
         wordlist = set(word.strip().lower() for word in words.words() \
                 if len(word.strip()) == N and \

@@ -2266,3 +2266,84 @@ u n i
 r e x
 
 
+----------------
+4x4 Grid of words in 32.97s:
+french.txt
+
+t r a c
+r i v e
+a m e r
+m e u f
+
+Columns:
+
+t r a m
+r i m e
+a v e u
+c e r f
+
+
+----------------
+4x4 Grid of words in 50.94s:
+french.txt
+
+s a u t
+l u n e
+i r i s
+p a r t
+
+Columns:
+
+s l i p
+a u r a
+u n i r
+t e s t
+
+
+----------------
+4x4 Grid of words in 156.96s:
+french.txt
+
+d a m e
+a v a l
+n e r f
+s c i e
+
+Columns:
+
+d a n s
+a v e c
+m a r i
+e l f e
+
+
+----------------
+3x3 Grid of words in 0.11s:
+./french.txt
+
+a g e
+r a t
+t i c
+
+Columns:
+
+a r t
+g a i
+e t c
+
+
+----------------
+3x3 Grid of words in 0.79s:
+words_alpha_2.txt
+
+l o u
+a u s
+b r a
+
+Columns:
+
+l a b
+o u r
+u s a
+
+
