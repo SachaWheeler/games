@@ -15,9 +15,9 @@ def create_grid(wordlist, N):
         return None
 
 def fill_grid(grid, row, N, wordlist):
-    wl = list(wordlist)
-    random.shuffle(list(wl))
-    wordlist = set(wl)
+    # wl = list(wordlist)
+    # random.shuffle(list(wl))
+    # wordlist = set(wl)
     # Base case: all rows are filled
     if row == N:
         return True
@@ -78,10 +78,9 @@ def display_grid(grid, execution_time):
         print("No valid grid found.")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser( description="enter an optional dictionary path and N.")
+    parser = argparse.ArgumentParser(description="enter an optional dictionary path and N.")
     parser.add_argument("file", nargs="?", type=str, help="Path to a dictionary file")
     parser.add_argument("number", nargs="?", type=int, help="Size of grid")
-
     args = parser.parse_args()
 
     if args.file and os.path.isfile(args.file):

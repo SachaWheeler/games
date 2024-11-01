@@ -2560,3 +2560,292 @@ s i v a
 e s a m
 
 
+----------------
+4x4 Grid of words in 80.19s:
+x
+
+e x o r
+j e r e
+a m e l
+m a d y
+
+Columns:
+
+e j a m
+x e m a
+o r e d
+r e l y
+
+
+----------------
+4x4 Grid of words in 1.03s:
+nouns.txt
+
+c o i r
+h o n e
+a r c a
+   
+
+Columns:
+
+c h a 
+o o r 
+i n c 
+r e a 
+
+
+----------------
+4x4 Grid of words in 18.46s:
+words_alpha_2.txt
+
+n a i l
+o n t o
+o n e s
+n a m e
+
+Columns:
+
+n o o n
+a n n a
+i t e m
+l o s e
+
+
+----------------
+4x4 Grid of words in 24.44s:
+words_alpha_2.txt
+
+j u l y
+a s i a
+i d o l
+l a n e
+
+Columns:
+
+j a i l
+u s d a
+l i o n
+y a l e
+
+
+----------------
+4x4 Grid of words in 4.15s:
+words_alpha_2.txt
+
+s m t p
+h a i r
+e u r o
+d i e s
+
+Columns:
+
+s h e d
+m a u i
+t i r e
+p r o s
+
+
+----------------
+4x4 Grid of words in 18.87s:
+words_alpha_2.txt
+
+p o p e
+a r e a
+c a t s
+e l s e
+
+Columns:
+
+p a c e
+o r a l
+p e t s
+e a s e
+
+
+----------------
+4x4 Grid of words in 0.36s:
+words_alpha_2.txt
+
+a c e r
+l o n e
+a d d s
+n e s t
+
+Columns:
+
+a l a n
+c o d e
+e n d s
+r e s t
+
+
+----------------
+4x4 Grid of words in 14.15s:
+words_alpha_2.txt
+
+t w i n
+r a t e
+a l s o
+p l a n
+
+Columns:
+
+t r a p
+w a l l
+i t s a
+n e o n
+
+
+----------------
+4x4 Grid of words in 2.20s:
+words_alpha_2.txt
+
+h a r m
+t r e e
+t e a r
+p a l e
+
+Columns:
+
+h t t p
+a r e a
+r e a l
+m e r e
+
+
+----------------
+4x4 Grid of words in 6.69s:
+words_alpha_2.txt
+
+e v a l
+r e n o
+i r a n
+k y l e
+
+Columns:
+
+e r i k
+v e r y
+a n a l
+l o n e
+
+
+----------------
+4x4 Grid of words in 213.42s:
+words_alpha_2.txt
+
+p i c s
+i d l e
+s e a n
+s a n d
+
+Columns:
+
+p i s s
+i d e a
+c l a n
+s e n d
+
+
+----------------
+4x4 Grid of words in 266.19s:
+words_alpha_2.txt
+
+s a n s
+a r e a
+r a i l
+a b l e
+
+Columns:
+
+s a r a
+a r a b
+n e i l
+s a l e
+
+
+----------------
+4x4 Grid of words in 20.30s:
+words_alpha_2.txt
+
+a c e r
+s a v e
+u s e s
+s e n t
+
+Columns:
+
+a s u s
+c a s e
+e v e n
+r e s t
+
+
+----------------
+4x4 Grid of words in 186.93s:
+words_alpha_2.txt
+
+w a r d
+a s i a
+l i s t
+k n e e
+
+Columns:
+
+w a l k
+a s i n
+r i s e
+d a t e
+
+
+----------------
+4x4 Grid of words in 12.80s:
+words_alpha_2.txt
+
+h a l l
+t r e o
+m e s s
+l a s t
+
+Columns:
+
+h t m l
+a r e a
+l e s s
+l o s t
+
+
+----------------
+4x4 Grid of words in 33.04s:
+words_alpha_2.txt
+
+r o s s
+a n n a
+i c o n
+n e w s
+
+Columns:
+
+r a i n
+o n c e
+s n o w
+s a n s
+
+
+----------------
+4x4 Grid of words in 119.95s:
+words_alpha_2.txt
+
+c r a p
+l i n e
+a c n e
+n e a r
+
+Columns:
+
+c l a n
+r i c e
+a n n a
+p e e r
+
+
