@@ -8,7 +8,6 @@ def create_grid(wordlist, N):
     if fill_grid(grid, 0, N, wordlist):
         return grid
     else:
-        print("No solution found.")
         return None
 
 def fill_grid(grid, row, N, wordlist):
@@ -20,7 +19,9 @@ def fill_grid(grid, row, N, wordlist):
     for word in wordlist:
         # Place the word in the current row
         grid[row] = list(word)
-        print(grid, word, end='\r')
+        print([''.join(sublist) for sublist in grid], word,
+                "               ", end='\r')
+
 
         # Check if this row is valid by examining each column regex
         if all(has_valid_column_match(grid,
@@ -58,7 +59,7 @@ def display_grid(grid, execution_time):
         with open('output.txt', 'a') as output:
             out(output, f"----------------\n"
             f"{N}x{N} Grid of words in {execution_time:.2f}s:\n"
-            f"{FILENAME if STATIC_WORDLIST else 'nltk'}\n")
+            f"{FILENAME if FILENAME else 'nltk'}\n")
 
             for row in grid:
                 out(output, " ".join(row))
@@ -70,19 +71,18 @@ def display_grid(grid, execution_time):
         print("No valid grid found.")
 
 
-FILENAME="names.txt"
-STATIC_WORDLIST = True  # False uses nltk
-N = 5
+FILENAME="french.txt"
+N = 4
 
 if __name__ == "__main__":
-    print(f"starting with {N=}")
+    print(f"starting with {N=}, {FILENAME if FILENAME else 'nltk'}")
 
-    if STATIC_WORDLIST:
+    try:
         with open(FILENAME, "r") as file:
             wordlist = {word.strip().lower() for word in file \
                     if len(word.strip()) == N and \
                     word.strip().isalpha()}
-    else:
+    except:
         wordlist = set(word.strip().lower() for word in words.words() \
                 if len(word.strip()) == N and \
                 word.strip().isalpha())

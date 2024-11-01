@@ -2217,3 +2217,52 @@ r e t a
 a l e n
 
 
+----------------
+4x4 Grid of words in 4.15s:
+names.txt
+
+e w a n
+i o n a
+j o d i
+i n a m
+
+Columns:
+
+e i j i
+w o o n
+a n d a
+n a i m
+
+
+----------------
+4x4 Grid of words in 3.47s:
+names.txt
+
+k a n u
+a z a m
+l i d a
+a z a r
+
+Columns:
+
+k a l a
+a z i z
+n a d a
+u m a r
+
+
+----------------
+3x3 Grid of words in 0.24s:
+french.txt
+
+p u r
+u n e
+s i x
+
+Columns:
+
+p u s
+u n i
+r e x
+
+
