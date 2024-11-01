@@ -2458,3 +2458,105 @@ c h e w
 h o s t
 
 
+----------------
+4x4 Grid of words in 91.89s:
+nouns.txt
+
+w o n t
+a r e s
+n e v a
+d o e r
+
+Columns:
+
+w a n d
+o r e o
+n e v e
+t s a r
+
+
+----------------
+4x4 Grid of words in 4.18s:
+nouns.txt
+
+c l o n
+l y l y
+a r e s
+w a d e
+
+Columns:
+
+c l a w
+l y r a
+o l e d
+n y s e
+
+
+----------------
+4x4 Grid of words in 66.60s:
+nouns.txt
+
+c a f f
+e l a n
+b a r m
+u r e a
+
+Columns:
+
+c e b u
+a l a r
+f a r e
+f n m a
+
+
+----------------
+4x4 Grid of words in 17.13s:
+names.txt
+
+l o l a
+a r u n
+r a n d
+k l a y
+
+Columns:
+
+l a r k
+o r a l
+l u n a
+a n d y
+
+
+----------------
+4x4 Grid of words in 101.25s:
+names.txt
+
+t i f f
+e l l e
+a d o n
+m a r g
+
+Columns:
+
+t e a m
+i l d a
+f l o r
+f e n g
+
+
+----------------
+4x4 Grid of words in 63.58s:
+names.txt
+
+l y s e
+e n i s
+d e v a
+a z a m
+
+Columns:
+
+l e d a
+y n e z
+s i v a
+e s a m
+
+

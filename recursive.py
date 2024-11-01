@@ -4,6 +4,8 @@ import time
 from nltk.corpus import words
 import argparse
 import os
+import random
+
 
 def create_grid(wordlist, N):
     grid = [['' for _ in range(N)] for _ in range(N)]
@@ -13,6 +15,9 @@ def create_grid(wordlist, N):
         return None
 
 def fill_grid(grid, row, N, wordlist):
+    wl = list(wordlist)
+    random.shuffle(list(wl))
+    wordlist = set(wl)
     # Base case: all rows are filled
     if row == N:
         return True
@@ -72,27 +77,23 @@ def display_grid(grid, execution_time):
     else:
         print("No valid grid found.")
 
-parser = argparse.ArgumentParser(
-        description="enter an optional dictionary path and N.")
-
-parser.add_argument("file", nargs="?", type=str,
-        help="Path to a dictionary file")
-parser.add_argument("number", nargs="?", type=int,
-        help="Size of grid")
-
-args = parser.parse_args()
-
-if args.file and os.path.isfile(args.file):
-    FILENAME=args.file
-else:
-    FILENAME="words_alpha_2.txt"
-
-if args.number is not None and args.number > 1 and args.number < 10:
-    N = args.number
-else:
-    N = 4
-
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser( description="enter an optional dictionary path and N.")
+    parser.add_argument("file", nargs="?", type=str, help="Path to a dictionary file")
+    parser.add_argument("number", nargs="?", type=int, help="Size of grid")
+
+    args = parser.parse_args()
+
+    if args.file and os.path.isfile(args.file):
+        FILENAME=args.file
+    else:
+        FILENAME="words_alpha_2.txt"
+
+    if args.number is not None and args.number > 1 and args.number < 10:
+        N = args.number
+    else:
+        N = 4
+
     print(f"starting with {N=}, {FILENAME if FILENAME else 'nltk'}")
 
     try:
