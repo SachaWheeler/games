@@ -15,20 +15,23 @@ def create_grid(wordlist, N):
         return None
 
 def fill_grid(grid, row, N, wordlist):
-    # wl = list(wordlist)
-    # random.shuffle(list(wl))
-    # wordlist = set(wl)
     # Base case: all rows are filled
     if row == N:
         return True
 
     # Try each word in the wordlist for the current row
+    # print(row, grid)
     for word in wordlist:
+        # only consider words which match the index col
+        if [word[i] for i in range(row)] != [grid[j][row] for j in range(row)]:
+            continue
+
         # Place the word in the current row
         grid[row] = list(word)
+        """
         print([''.join(sublist) for sublist in grid], word,
                 "               ", end='\r')
-
+        """
 
         # Check if this row is valid by examining each column regex
         if all(has_valid_column_match(grid,
@@ -54,7 +57,7 @@ def has_valid_column_match(grid, col, N, wordlist, used_words):
 
 def used_words_in_grid(grid):
     # Gather a set of all words currently used in the rows of the grid
-    return {''.join(row) for row in grid if all(row)}
+    return {}  #''.join(row) for row in grid if all(row)}
 
 
 def out(output, message):
@@ -83,10 +86,9 @@ if __name__ == "__main__":
     parser.add_argument("number", nargs="?", type=int, help="Size of grid")
     args = parser.parse_args()
 
+    FILENAME = None
     if args.file and os.path.isfile(args.file):
         FILENAME=args.file
-    else:
-        FILENAME="words_alpha_2.txt"
 
     if args.number is not None and args.number > 1 and args.number < 10:
         N = args.number
