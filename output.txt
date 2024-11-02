@@ -3950,3 +3950,470 @@ e w e r e r
 r a n e r e
 
 
+----------------
+4x4 Grid of words in 0.01s:
+linuxwords.txt
+
+l u i s
+u r s a
+i s i s
+s a s h
+
+Columns:
+
+l u i s
+u r s a
+i s i s
+s a s h
+
+
+----------------
+6x6 Grid of words in 6.01s:
+linuxwords.txt
+
+i d l e s t
+d i a n n e
+l a r s e n
+e n s u e d
+s n e e z e
+t e n d e r
+
+Columns:
+
+i d l e s t
+d i a n n e
+l a r s e n
+e n s u e d
+s n e e z e
+t e n d e r
+
+
+----------------
+4x4 Grid of words in 0.03s:
+ridyhew/MASTER
+
+s e x t
+e u o i
+x o r s
+t i s h
+
+Columns:
+
+s e x t
+e u o i
+x o r s
+t i s h
+
+
+----------------
+5x5 Grid of words in 0.13s:
+ridyhew/MASTER
+
+h u s k s
+u n m e t
+s m i l y
+k e l i m
+s t y m y
+
+Columns:
+
+h u s k s
+u n m e t
+s m i l y
+k e l i m
+s t y m y
+
+
+----------------
+6x6 Grid of words in 0.94s:
+ridyhew/MASTER
+
+r u c k l e
+u r a n i a
+c a w i n g
+k n i f e r
+l i n e a e
+e a g r e s
+
+Columns:
+
+r u c k l e
+u r a n i a
+c a w i n g
+k n i f e r
+l i n e a e
+e a g r e s
+
+
+----------------
+7x7 Grid of words in 411.44s:
+ridyhew/MASTER
+
+u n s w e a r
+n a c e l l e
+s c e l e t s
+w e l l g e t
+e l e g i z e
+a l t e z a s
+r e s t e s t
+
+Columns:
+
+u n s w e a r
+n a c e l l e
+s c e l e t s
+w e l l g e t
+e l e g i z e
+a l t e z a s
+r e s t e s t
+
+
+----------------
+4x4 Grid of words in 26.09s:
+ridyhew/MASTER
+
+s a k i
+y e e l
+b r e e
+o o f s
+
+Columns:
+
+s y b o
+a e r o
+k e e f
+i l e s
+
+
+----------------
+7x7 Grid of words in 412.55s:
+ridyhew/MASTER
+
+a n o e s e s
+n e r v a t e
+o r b i t a l
+e v i t a t e
+s a t a n i c
+e t a t i s t
+s e l e c t s
+
+Columns:
+
+a n o e s e s
+n e r v a t e
+o r b i t a l
+e v i t a t e
+s a t a n i c
+e t a t i s t
+s e l e c t s
+
+
+----------------
+5x5 Grid of words in 267.69s:
+ridyhew/MASTER
+
+w h i c h
+h a o l e
+e n t a l
+e t a p e
+p s s t s
+
+Columns:
+
+w h e e p
+h a n t s
+i o t a s
+c l a p t
+h e l e s
+
+
+----------------
+4x4 Grid of words in 0.02s:
+ridyhew/MASTER
+
+m o y s
+o a r y
+y r e n
+s y n c
+
+Columns:
+
+m o y s
+o a r y
+y r e n
+s y n c
+
+
+----------------
+5x5 Grid of words in 0.42s:
+ridyhew/MASTER
+
+a r d r i
+r h e i d
+d e e d y
+r i d e l
+i d y l s
+
+Columns:
+
+a r d r i
+r h e i d
+d e e d y
+r i d e l
+i d y l s
+
+
+----------------
+6x6 Grid of words in 5.12s:
+ridyhew/MASTER
+
+b u s s e d
+u n e a s e
+s e d u c e
+s a u b a s
+e s c a p e
+d e e s e s
+
+Columns:
+
+b u s s e d
+u n e a s e
+s e d u c e
+s a u b a s
+e s c a p e
+d e e s e s
+
+
+----------------
+7x7 Grid of words in 68.02s:
+ridyhew/MASTER
+
+k h a n g a s
+h i d e o u t
+a d r o w s e
+n e o n a t e
+g o w a n e d
+a u s t e r e
+s t e e d e d
+
+Columns:
+
+k h a n g a s
+h i d e o u t
+a d r o w s e
+n e o n a t e
+g o w a n e d
+a u s t e r e
+s t e e d e d
+
+
+----------------
+7x7 Grid of words in 694.84s:
+ridyhew/MASTER
+
+k h u r t a s
+h o n o r e e
+u n d a u n t
+r o a d m e n
+t r u m p i e
+a e n e i d s
+s e t n e s s
+
+Columns:
+
+k h u r t a s
+h o n o r e e
+u n d a u n t
+r o a d m e n
+t r u m p i e
+a e n e i d s
+s e t n e s s
+
+
+----------------
+7x7 Grid of words in 887.19s:
+ridyhew/MASTER
+
+f e a s t e d
+e d u c a t e
+a u r o r a e
+s c o t a l s
+t a r a m a s
+e t a l a g e
+d e e s s e s
+
+Columns:
+
+f e a s t e d
+e d u c a t e
+a u r o r a e
+s c o t a l s
+t a r a m a s
+e t a l a g e
+d e e s s e s
+
+
+----------------
+5x5 Grid of words in 0.93s:
+ridyhew/MASTER
+
+l o g i c
+o m r a h
+g r a m a
+i a m b i
+c h a i r
+
+Columns:
+
+l o g i c
+o m r a h
+g r a m a
+i a m b i
+c h a i r
+
+
+----------------
+5x5 Grid of words in 0.25s:
+words_alpha_2.txt
+
+h o r s e
+o m a h a
+r a d a r
+s h a l l
+e a r l y
+
+Columns:
+
+h o r s e
+o m a h a
+r a d a r
+s h a l l
+e a r l y
+
+
+----------------
+6x6 Grid of words in 33.06s:
+words_alpha_2.txt
+
+s a d d a m
+a r r i v e
+d r i v e r
+d i v i n g
+a v e n u e
+m e r g e r
+
+Columns:
+
+s a d d a m
+a r r i v e
+d r i v e r
+d i v i n g
+a v e n u e
+m e r g e r
+
+
+----------------
+6x6 Grid of words in 97.06s:
+words_alpha_2.txt
+
+s p e a r s
+p l a n e t
+e a s i l y
+a n i m a l
+r e l a t e
+s t y l e s
+
+Columns:
+
+s p e a r s
+p l a n e t
+e a s i l y
+a n i m a l
+r e l a t e
+s t y l e s
+
+
+----------------
+6x6 Grid of words in 160.46s:
+words_alpha_2.txt
+
+s p e a r s
+p l a n e t
+e a s i l y
+a n i m a l
+r e l a t e
+s t y l e s
+
+Columns:
+
+s p e a r s
+p l a n e t
+e a s i l y
+a n i m a l
+r e l a t e
+s t y l e s
+
+
+----------------
+7x7 Grid of words in 130.81s:
+words_alpha.txt
+
+b a t a b l e
+a z e l a i c
+t e d e s c a
+a l e r t e r
+b a s t a n t
+l i c e n c e
+e c a r t e s
+
+Columns:
+
+b a t a b l e
+a z e l a i c
+t e d e s c a
+a l e r t e r
+b a s t a n t
+l i c e n c e
+e c a r t e s
+
+
+----------------
+5x5 Grid of words in 0.25s:
+x
+
+p a l a s
+a k u l e
+l u i g i
+a l g i n
+s e i n e
+
+Columns:
+
+p a l a s
+a k u l e
+l u i g i
+a l g i n
+s e i n e
+
+
+----------------
+6x6 Grid of words in 6.31s:
+x
+
+h o r r i d
+o r i o l e
+r i m u l a
+r o u p i t
+i l l i s h
+d e a t h y
+
+Columns:
+
+h o r r i d
+o r i o l e
+r i m u l a
+r o u p i t
+i l l i s h
+d e a t h y
+
+

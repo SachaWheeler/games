@@ -20,10 +20,10 @@ def fill_grid(grid, row, N, wordlist):
         return True
 
     # Try each word in the wordlist for the current row
-    # print(row, grid)
     for word in wordlist:
-        # only consider words which match the index col
-        if [word[i] for i in range(row)] != [grid[j][row] for j in range(row)]:
+        # only consider words which match the index col if REFLECTED
+        if REFLECTED and \
+                [word[i] for i in range(row)] != [grid[j][row] for j in range(row)]:
             continue
 
         # Place the word in the current row
@@ -47,7 +47,7 @@ def fill_grid(grid, row, N, wordlist):
     return False
 
 def has_valid_column_match(grid, col, N, wordlist, used_words):
-    # Construct a partial regex pattern for the current column
+    # Construct a regex pattern for the current column
     pattern = ''.join(grid[row][col] if grid[row][col] else '.' for row in range(N))
     regex = re.compile(f"^{pattern}$")
 
@@ -57,7 +57,10 @@ def has_valid_column_match(grid, col, N, wordlist, used_words):
 
 def used_words_in_grid(grid):
     # Gather a set of all words currently used in the rows of the grid
-    return {}  #''.join(row) for row in grid if all(row)}
+    if REFLECTED:
+        return {}
+    else:
+        return {''.join(row) for row in grid if all(row)}
 
 
 def out(output, message):
@@ -86,14 +89,17 @@ if __name__ == "__main__":
     parser.add_argument("number", nargs="?", type=int, help="Size of grid")
     args = parser.parse_args()
 
-    FILENAME = None
     if args.file and os.path.isfile(args.file):
         FILENAME=args.file
+    else:
+        FILENAME = None
 
     if args.number is not None and args.number > 1 and args.number < 10:
         N = args.number
     else:
         N = 4
+
+    REFLECTED = True  # if True, words are reused in cols
 
     print(f"starting with {N=}, {FILENAME if FILENAME else 'nltk'}")
 
