@@ -99,9 +99,7 @@ if __name__ == "__main__":
     else:
         N = 4
 
-    REFLECTED = True  # if True, words are reused in cols
-
-    print(f"starting with {N=}, {FILENAME if FILENAME else 'nltk'}")
+    REFLECTED = not True  # if True, words are reused in cols
 
     try:
         with open(FILENAME, "r") as file:
@@ -112,6 +110,8 @@ if __name__ == "__main__":
         wordlist = set(word.strip().lower() for word in words.words() \
                 if len(word.strip()) == N and \
                 word.strip().isalpha())
+
+    print(f"starting with {N=}, {FILENAME if FILENAME else 'nltk'} ({len(wordlist):,} words)")
 
     # print(wordlist)
     start_time = time.time()

@@ -4417,3 +4417,431 @@ i l l i s h
 d e a t h y
 
 
+----------------
+7x7 Grid of words in 2953.03s:
+words_alpha.txt
+
+h a m l e t s
+a l i e n e e
+m i r a c l e
+l e a c h e r
+e n c h a s e
+t e l e s e s
+s e e r e s s
+
+Columns:
+
+h a m l e t s
+a l i e n e e
+m i r a c l e
+l e a c h e r
+e n c h a s e
+t e l e s e s
+s e e r e s s
+
+
+----------------
+7x7 Grid of words in 358.56s:
+words_alpha.txt
+
+p r o d d e r
+r e v e r i e
+o v i c i d e
+d e c a n o l
+d r i n g l e
+e i d o l i c
+r e e l e c t
+
+Columns:
+
+p r o d d e r
+r e v e r i e
+o v i c i d e
+d e c a n o l
+d r i n g l e
+e i d o l i c
+r e e l e c t
+
+
+----------------
+7x7 Grid of words in 17.14s:
+words_alpha.txt
+
+i s o g r a m
+s c r e a m y
+o r i s t i c
+g e s t a t e
+r a t a t a t
+a m i t a t e
+m y c e t e s
+
+Columns:
+
+i s o g r a m
+s c r e a m y
+o r i s t i c
+g e s t a t e
+r a t a t a t
+a m i t a t e
+m y c e t e s
+
+
+----------------
+7x7 Grid of words in 402.62s:
+words_alpha.txt
+
+p o u l t e r
+o m n i a n a
+u n c r i s p
+l i r e l l a
+t a i l f a n
+e n s l a v e
+r a p a n e a
+
+Columns:
+
+p o u l t e r
+o m n i a n a
+u n c r i s p
+l i r e l l a
+t a i l f a n
+e n s l a v e
+r a p a n e a
+
+
+----------------
+7x7 Grid of words in 66.05s:
+words_alpha.txt
+
+k n i t t l e
+n a t u r e l
+i t a l i t e
+t u l a l i p
+t r i l i t h
+l e t i t i a
+e l e p h a s
+
+Columns:
+
+k n i t t l e
+n a t u r e l
+i t a l i t e
+t u l a l i p
+t r i l i t h
+l e t i t i a
+e l e p h a s
+
+
+----------------
+7x7 Grid of words in 694.85s:
+words_alpha.txt
+
+d i m o u t s
+i g u a n i a
+m u s t a r d
+o a t h f u l
+u n a f i r e
+t i r u r a i
+s a d l e i r
+
+Columns:
+
+d i m o u t s
+i g u a n i a
+m u s t a r d
+o a t h f u l
+u n a f i r e
+t i r u r a i
+s a d l e i r
+
+
+----------------
+7x7 Grid of words in 806.19s:
+words_alpha.txt
+
+p u t c h u k
+u n h o u s e
+t h e r m i t
+c o r n e t t
+h u m e r a l
+u s i t a t e
+k e t t l e r
+
+Columns:
+
+p u t c h u k
+u n h o u s e
+t h e r m i t
+c o r n e t t
+h u m e r a l
+u s i t a t e
+k e t t l e r
+
+
+----------------
+7x7 Grid of words in 238.19s:
+words_alpha.txt
+
+m i d t e r m
+i n e r m i a
+d e w i e s t
+t r i l l i l
+e m e l i n e
+r i s i n g s
+m a t l e s s
+
+Columns:
+
+m i d t e r m
+i n e r m i a
+d e w i e s t
+t r i l l i l
+e m e l i n e
+r i s i n g s
+m a t l e s s
+
+
+----------------
+7x7 Grid of words in 203.57s:
+words_alpha.txt
+
+y e a l i n g
+e l e a n o r
+a e c i d i a
+l a i c i s m
+i n d i c i a
+n o i s i e r
+g r a m a r y
+
+Columns:
+
+y e a l i n g
+e l e a n o r
+a e c i d i a
+l a i c i s m
+i n d i c i a
+n o i s i e r
+g r a m a r y
+
+
+----------------
+7x7 Grid of words in 234.27s:
+words_alpha.txt
+
+p i n e t u m
+i l o k a n o
+n o r e l i n
+e k e r i t e
+t a l i s a y
+u n i t a g e
+m o n e y e r
+
+Columns:
+
+p i n e t u m
+i l o k a n o
+n o r e l i n
+e k e r i t e
+t a l i s a y
+u n i t a g e
+m o n e y e r
+
+
+----------------
+7x7 Grid of words in 493.11s:
+words_alpha.txt
+
+a u t o p u t
+u r a m i n o
+t a k i n g s
+o m i n o u s
+p i n o c l e
+u n g u l a r
+t o s s e r s
+
+Columns:
+
+a u t o p u t
+u r a m i n o
+t a k i n g s
+o m i n o u s
+p i n o c l e
+u n g u l a r
+t o s s e r s
+
+
+----------------
+7x7 Grid of words in 35.27s:
+words_alpha.txt
+
+k r u l l e r
+r o m e i n e
+u m b o n a l
+l e o n a t o
+l i n a r i a
+e n a t i o n
+r e l o a n s
+
+Columns:
+
+k r u l l e r
+r o m e i n e
+u m b o n a l
+l e o n a t o
+l i n a r i a
+e n a t i o n
+r e l o a n s
+
+
+----------------
+7x7 Grid of words in 275.99s:
+words_alpha.txt
+
+v e t o e r s
+e p a u l e t
+t a r t a r e
+o u t l i e r
+e l a i d i n
+r e r e i g n
+s t e r n n a
+
+Columns:
+
+v e t o e r s
+e p a u l e t
+t a r t a r e
+o u t l i e r
+e l a i d i n
+r e r e i g n
+s t e r n n a
+
+
+----------------
+5x5 Grid of words in 0.45s:
+x
+
+f o g o n
+o y a n a
+g a m i n
+o n i o n
+n a n n y
+
+Columns:
+
+f o g o n
+o y a n a
+g a m i n
+o n i o n
+n a n n y
+
+
+----------------
+6x6 Grid of words in 8.48s:
+x
+
+t o s s u p
+o i t a v a
+s t o w e r
+s a w a l i
+u v e l l a
+p a r i a h
+
+Columns:
+
+t o s s u p
+o i t a v a
+s t o w e r
+s a w a l i
+u v e l l a
+p a r i a h
+
+
+----------------
+5x5 Grid of words in 0.35s:
+words_alpha.txt
+
+a b r i n
+b e a d y
+r a t o s
+i d o l s
+n y s s a
+
+Columns:
+
+a b r i n
+b e a d y
+r a t o s
+i d o l s
+n y s s a
+
+
+----------------
+6x6 Grid of words in 4.49s:
+words_alpha.txt
+
+r u b i a n
+u n r o v e
+b r i d e s
+i o d i n s
+a v e n u e
+n e s s e s
+
+Columns:
+
+r u b i a n
+u n r o v e
+b r i d e s
+i o d i n s
+a v e n u e
+n e s s e s
+
+
+----------------
+3x3 Grid of words in 0.08s:
+words_alpha.txt
+
+j u n
+a l c
+i a o
+
+Columns:
+
+j a i
+u l a
+n c o
+
+
+----------------
+4x4 Grid of words in 17.52s:
+words_alpha_2.txt
+
+d o m e
+e v i l
+m e s s
+o n c e
+
+Columns:
+
+d e m o
+o v e n
+m i s c
+e l s e
+
+
+----------------
+4x4 Grid of words in 57.21s:
+x
+
+b i e n
+o k e e
+s a l e
+e t y m
+
+Columns:
+
+b o s e
+i k a t
+e e l y
+n e e m
+
+
