@@ -4845,3 +4845,161 @@ e e l y
 n e e m
 
 
+----------------
+4x4 Grid of words in 11.66s:
+nltk
+
+h a j e
+y o u l
+p u r l
+o l e a
+
+Columns:
+
+h y p o
+a o u l
+j u r e
+e l l a
+
+
+----------------
+4x4 Grid of words in 28.03s:
+words_alpha_2.txt
+
+d e s k
+a v o n
+l i n e
+e l s e
+
+Columns:
+
+d a l e
+e v i l
+s o n s
+k n e e
+
+
+----------------
+4x4 Grid of words in 34.71s:
+words_alpha_3.txt
+
+t w i n
+h i d e
+a r e a
+t e a r
+
+Columns:
+
+t h a t
+w i r e
+i d e a
+n e a r
+
+
+----------------
+4x4 Grid of words in 42.63s:
+words_alpha_3.txt
+
+t w i n
+h i d e
+a r e a
+t e a r
+
+Columns:
+
+t h a t
+w i r e
+i d e a
+n e a r
+
+
+----------------
+3x3 Grid of words in 7.22s:
+words_alpha_3.txt
+
+a g o
+g u n
+e y e
+
+Columns:
+
+a g e
+g u y
+o n e
+
+
+----------------
+3x3 Grid of words in 0.58s:
+words_alpha_3.txt
+
+f a r
+a g e
+n o d
+
+Columns:
+
+f a n
+a g o
+r e d
+
+
+----------------
+3x3 Grid of words in 1.26s:
+words_alpha_3.txt
+
+g a p
+a g o
+y e t
+
+Columns:
+
+g a y
+a g e
+p o t
+
+
+----------------
+3x3 Grid of words in 8.49s:
+words_alpha_3.txt
+
+f a n
+a g e
+r o w
+
+Columns:
+
+f a r
+a g o
+n e w
+
+
+----------------
+3x3 Grid of words in 0.67s:
+words_alpha_3.txt
+
+l a p
+a g o
+y e t
+
+Columns:
+
+l a y
+a g e
+p o t
+
+
+----------------
+3x3 Grid of words in 7.06s:
+words_alpha_3.txt
+
+m a n
+a g o
+p e r
+
+Columns:
+
+m a p
+a g e
+n o r
+
+
