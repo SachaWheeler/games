@@ -21,8 +21,8 @@ def fill_grid(grid, row, N, wordlist):
 
     # Try each word in the wordlist for the current row
     for word in wordlist:
-        # only consider words which match the index col if REFLECTED
-        if REFLECTED and \
+        # only consider words which match the index col if REUSE_WORDS
+        if REUSE_WORDS and \
                 [word[i] for i in range(row)] != [grid[j][row] for j in range(row)]:
             continue
 
@@ -57,7 +57,7 @@ def has_valid_column_match(grid, col, N, wordlist, used_words):
 
 def used_words_in_grid(grid):
     # Gather a set of all words currently used in the rows of the grid
-    if REFLECTED:
+    if REUSE_WORDS:
         return {}
     else:
         return {''.join(row) for row in grid if all(row)}
@@ -76,12 +76,32 @@ def display_grid(grid, execution_time):
 
             for row in grid:
                 out(output, " ".join(row))
-            out(output, "\nColumns:\n")
-            for i in range(N):
-                out(output, " ".join(row[i] for row in grid))
+            if not REUSE_WORDS:
+                out(output, "\nColumns:\n")
+                for i in range(N):
+                    out(output, " ".join(row[i] for row in grid))
             out(output, "\n")
     else:
         print("No valid grid found.")
+
+def get_wordlist(FILENAME, N):
+    try:
+        with open(FILENAME, "r") as file:
+            wordlist = set(word.strip().lower() for word in file \
+                    if len(word.strip()) == N and \
+                    word.strip().isalpha())
+    except:
+        wordlist = set(word.strip().lower() for word in words.words() \
+                if len(word.strip()) == N and \
+                word.strip().isalpha())
+    return wordlist
+
+def log_results(N, wl_length, filename, execution_time):
+    with open("results.csv", "a") as results:
+        results.write(f"{N}, {wl_length},"
+                f"\'{filename if filename else 'nltk'}\',"
+                f"{'reuse' if REUSE_WORDS else 'unigue'},"
+                f"{execution_time:.2f}\n")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="enter an optional dictionary path and N.")
@@ -99,29 +119,23 @@ if __name__ == "__main__":
     else:
         N = 4
 
-    REFLECTED = not True  # if True, words are reused in cols
+    REUSE_WORDS = not True  # if True, words are reused in cols
 
-    try:
-        with open(FILENAME, "r") as file:
-            wordlist = set(word.strip().lower() for word in file \
-                    if len(word.strip()) == N and \
-                    word.strip().isalpha())
-    except:
-        wordlist = set(word.strip().lower() for word in words.words() \
-                if len(word.strip()) == N and \
-                word.strip().isalpha())
-
-    print(f"starting with {N=}, {FILENAME if FILENAME else 'nltk'} ({len(wordlist):,} words)")
-
+    wordlist = get_wordlist(FILENAME, N)
     # print(wordlist)
+
+    print(f"starting with {N=},"
+            f"{FILENAME if FILENAME else 'nltk'}"
+            f"({len(wordlist):,} words) {'' if REUSE_WORDS else 'not '}reusing")
+
     start_time = time.time()
-
     grid = create_grid(wordlist, N)
-    print()
-
     end_time = time.time()
     execution_time = end_time - start_time
-    print(f"done in {execution_time:.0f}s")
+    if grid:
+        log_results(N, len(wordlist), FILENAME, execution_time)
+    else:
+        log_results(N, len(wordlist), FILENAME, None)
 
     display_grid(grid, execution_time)
 

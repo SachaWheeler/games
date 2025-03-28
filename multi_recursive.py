@@ -16,12 +16,12 @@ def create_grid_parallel(wordlist, N):
         return None
 
     # Create a multiprocessing pool
-    with Pool(processes=multiprocessing.cpu_count()) as pool:
+    with Pool(processes=6) as pool:
         # Run fill_grid_parallel for each starting word
         results = pool.starmap(
             fill_grid_parallel,
             [(N, wordlist, [list(word)] + [[''] * N for _ in range(N - 1)]) for word in wordlist],
-            100
+            1
         )
 
     # Filter out unsuccessful results and return the first successful grid found

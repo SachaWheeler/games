@@ -8,8 +8,8 @@ import time
 
 
 # nltk.download('words')
-LENGTH = 8
-FILENAME="words_alpha_2.txt"
+LENGTH = 5
+FILENAME="nouns.txt"
 
 def get_word_list(filename=FILENAME):
     with open(filename, "r") as file:
