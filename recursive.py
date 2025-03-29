@@ -107,6 +107,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="enter an optional dictionary path and N.")
     parser.add_argument("file", nargs="?", type=str, help="Path to a dictionary file")
     parser.add_argument("number", nargs="?", type=int, help="Size of grid")
+    parser.add_argument("reuse", nargs="?", type=str, help="Reuse words")
     args = parser.parse_args()
 
     if args.file and os.path.isfile(args.file):
@@ -117,9 +118,12 @@ if __name__ == "__main__":
     if args.number is not None and args.number > 1 and args.number < 10:
         N = args.number
     else:
-        N = 4
+        N = 7
 
-    REUSE_WORDS = not True  # if True, words are reused in cols
+    if args.reuse is not None:
+        REUSE_WORDS = True  # if True, words are reused in cols
+    else:
+        REUSE_WORDS = not True
 
     wordlist = get_wordlist(FILENAME, N)
     # print(wordlist)

@@ -7578,3 +7578,273 @@ n i k r r
   d i f e
 
 
+----------------
+4x4 Grid of words in 5.13s:
+nltk
+
+h i r e
+e s o x
+e l s a
+l e a m
+
+Columns:
+
+h e e l
+i s l e
+r o s a
+e x a m
+
+
+----------------
+5x5 Grid of words in 0.16s:
+nltk
+
+f u m e t
+u r a l i
+m a r a l
+e l a t e
+t i l e d
+
+
+----------------
+6x6 Grid of words in 0.70s:
+nltk
+
+b o w m a n
+o x h i d e
+w h e l v e
+m i l l e d
+a d v e n e
+n e e d e r
+
+
+----------------
+5x5 Grid of words in 0.04s:
+nouns.txt
+
+b i t e r
+i m i d e
+t i l i a
+e d i c t
+r e a t a
+
+
+----------------
+6x6 Grid of words in 5.24s:
+nouns.txt
+
+c a v i a r
+a r e n g a
+v e n d e e
+i n d e n t
+a g e n d a
+r a e t a m
+
+
+----------------
+6x6 Grid of words in 1.81s:
+nouns.txt
+
+g u l p e r
+u n i a t e
+l i t c h i
+p a c k e t
+e t h e n e
+r e i t e r
+
+
+----------------
+7x7 Grid of words in 226.08s:
+nltk
+
+w r i t h e r
+r e s h a p e
+i s l a m i c
+t h a n a g e
+h a m a t e d
+e p i g e n e
+r e c e d e r
+
+
+----------------
+4x4 Grid of words in 0.01s:
+nouns.txt
+
+p l e a
+l o s s
+e s a u
+a s u r
+
+
+----------------
+6x6 Grid of words in 0.12s:
+nouns.txt
+
+s p r e a d
+p l a s m a
+r a p p e l
+e s p a n a
+a m e n d s
+d a l a s i
+
+
+----------------
+4x4 Grid of words in 0.01s:
+words_alpha.txt
+
+g a p a
+a n e w
+p e t o
+a w o l
+
+
+----------------
+6x6 Grid of words in 15.35s:
+words_alpha.txt
+
+d e b u r r
+e l a n c e
+b a r i l e
+u n i t a l
+r c l a m e
+r e e l e r
+
+
+----------------
+7x7 Grid of words in 74.51s:
+words_alpha.txt
+
+p e r t i s h
+e p e r g n e
+r e l i n e r
+t r i f o l d
+i g n o b l e
+s n e l l e r
+h e r d e r s
+
+
+----------------
+4x4 Grid of words in 0.01s:
+words.txt
+
+i p b m
+p r e v
+b e d s
+m v s c
+
+
+----------------
+5x5 Grid of words in 0.01s:
+words.txt
+
+o r v e t
+r h o d e
+v o d e r
+e d e m a
+t e r a p
+
+
+----------------
+6x6 Grid of words in 1.05s:
+words.txt
+
+s p r i t s
+p e a s o n
+r a v a n a
+i s a i a s
+t o n a n t
+s n a s t e
+
+
+----------------
+7x7 Grid of words in 23.89s:
+words.txt
+
+m o s a i s m
+o p e r c l e
+s e a b e e s
+a r b o l e s
+i c e l i k e
+s l e e k e r
+m e s s e r e
+
+
+----------------
+7x7 Grid of words in 371.78s:
+nouns.txt
+
+b a p t i s t
+a t l a n t a
+p l u n g e r
+t a n g e n t
+i n g e s t a
+s t e n t o r
+t a r t a r y
+
+
+----------------
+4x4 Grid of words in 0.02s:
+words_alpha.txt
+
+r o w y
+o d a l
+w a l e
+y l e m
+
+
+----------------
+6x6 Grid of words in 0.08s:
+words_alpha.txt
+
+p o i n t e
+o a r i u m
+i r o n i c
+n i n g l e
+t u i l l e
+e m c e e s
+
+
+----------------
+4x4 Grid of words in 7.23s:
+words_alpha.txt
+
+r o i t
+o l d s
+k o l i
+a r y a
+
+Columns:
+
+r o k a
+o l o r
+i d l y
+t s i a
+
+
+----------------
+4x4 Grid of words in 0.00s:
+words_alpha.txt
+
+d h a w
+h a g i
+a g a l
+w i l e
+
+
+----------------
+4x4 Grid of words in 22.42s:
+words_alpha.txt
+
+p e d a
+f l o c
+u l v a
+i s e d
+
+Columns:
+
+p f u i
+e l l s
+d o v e
+a c a d
+
+
