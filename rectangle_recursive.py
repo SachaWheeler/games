@@ -5,11 +5,12 @@ from nltk.corpus import words
 import argparse
 import os
 import random
-# from functools import cache
+from functools import cache
 
 
 def create_grid(wordlist, N):
-    grid = [['' for _ in range(N)] for _ in range(N)]
+    X, Y = N
+    grid = [['' for _ in range(X)] for _ in range(Y)]
     if fill_grid(grid, 0, N, wordlist):
         return grid
     else:
@@ -17,8 +18,9 @@ def create_grid(wordlist, N):
 
 # @cache
 def fill_grid(grid, row, N, wordlist):
+    X, Y = N
     # Base case: all rows are filled
-    if row == N:
+    if row == Y:
         return True
 
     # Try each word in the wordlist for the current row
@@ -27,7 +29,7 @@ def fill_grid(grid, row, N, wordlist):
         if REUSE_WORDS and \
                 [word[i] for i in range(row)] != [grid[j][row] for j in range(row)]:
             continue
-        if word in used_words_in_grid(grid):  # Don't repeat rows
+        if len(word) != X or word in used_words_in_grid(grid):  # Don't repeat rows
             continue
 
         # Place the word in the current row
@@ -38,20 +40,21 @@ def fill_grid(grid, row, N, wordlist):
 
         # Check if this row is valid by examining each column regex
         if all(has_valid_column_match(grid,
-            col, N, wordlist, used_words_in_grid(grid)) for col in range(N)):
+            col, N, wordlist, used_words_in_grid(grid)) for col in range(X)):
             # Recursively try to fill the next row
             if fill_grid(grid, row + 1, N, wordlist):
                 return True
 
         # Undo the row placement (backtracking)
-        grid[row] = [''] * N
+        grid[row] = [''] * X
 
     # No valid words found for this configuration
     return False
 
 def has_valid_column_match(grid, col, N, wordlist, used_words):
+    X, Y = N
     # Construct a regex pattern for the current column
-    pattern = ''.join(grid[row][col] if grid[row][col] else '.' for row in range(N))
+    pattern = ''.join(grid[row][col] if grid[row][col] else '.' for row in range(Y))
     regex = re.compile(f"^{pattern}$")
 
     # Check if there's at least one word in wordlist that matches the column pattern
@@ -80,23 +83,23 @@ def display_grid(grid, execution_time):
 
             for row in grid:
                 out(output, " ".join(row))
-            if not REUSE_WORDS:
-                out(output, "\nColumns:\n")
-                for i in range(N):
-                    out(output, " ".join(row[i] for row in grid))
+            out(output, "\nColumns:\n")
+            for i in range(N[0]):
+                out(output, " ".join(row[i] for row in grid))
             out(output, "\n")
     else:
         print("No valid grid found.")
 
 def get_wordlist(FILENAME, N):
+    # X, Y = N
     try:
         with open(FILENAME, "r") as file:
             wordlist = set(word.strip().lower() for word in file \
-                    if len(word.strip()) == N and \
+                    if len(word.strip()) in N and \
                     word.strip().isalpha())
     except:
         wordlist = set(word.strip().lower() for word in words.words() \
-                if len(word.strip()) == N and \
+                if len(word.strip()) in N and \
                 word.strip().isalpha())
     return wordlist
 
@@ -110,7 +113,7 @@ def log_results(N, wl_length, filename, execution_time):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="enter an optional dictionary path and N.")
     parser.add_argument("file", nargs="?", type=str, help="Path to a dictionary file")
-    parser.add_argument("number", nargs="?", type=int, help="Size of grid")
+    parser.add_argument("number", nargs="?", type=str, help="Size of grid")
     parser.add_argument("reuse", nargs="?", type=str, help="Reuse words")
     args = parser.parse_args()
 
@@ -119,10 +122,14 @@ if __name__ == "__main__":
     else:
         FILENAME = None
 
-    if args.number is not None and args.number > 1:  # and args.number < 10:
-        N = args.number
+    if args.number is not None:  # and args.number > 1:  # and args.number < 10:
+        if "," in args.number:
+            X, Y = args.number.split(",")
+            N = (int(X), int(Y))
+        elif args.number.isdigit():
+            N = (int(args.number), int(args.number))
     else:
-        N = 7
+        N = (7,7)
 
     if args.reuse is not None:
         REUSE_WORDS = True  # if True, words are reused in cols

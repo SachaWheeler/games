@@ -100,3 +100,57 @@
 4, 7186,'words_alpha.txt',unigue,7.23
 4, 7186,'words_alpha.txt',reuse,0.00
 4, 7186,'words_alpha.txt',unigue,22.42
+5, 15920,'words_alpha.txt',unigue,192.24
+5, 15920,'words_alpha.txt',reuse,0.35
+6, 29874,'words_alpha.txt',reuse,1.66
+4, 7186,'words_alpha.txt',reuse,0.01
+4, 7186,'words_alpha.txt',reuse,0.01
+6, 29874,'words_alpha.txt',reuse,7.80
+4, 2731,'nouns.txt',unigue,7.22
+4, 2731,'nouns.txt',reuse,0.00
+5, 4384,'nouns.txt',reuse,0.02
+6, 6308,'nouns.txt',reuse,9.92
+5, 4384,'nouns.txt',reuse,0.05
+6, 6308,'nouns.txt',reuse,2.02
+4, 2731,'nouns.txt',reuse,0.00
+4, 2731,'nouns.txt',reuse,0.01
+4, 2731,'nouns.txt',reuse,0.00
+4, 2731,'nouns.txt',unigue,1.80
+3, 1147,'nouns.txt',unigue,0.03
+4, 2731,'nouns.txt',unigue,26.79
+5, 9972,'nltk',reuse,0.07
+5, 9972,'nltk',reuse,0.04
+6, 17464,'nltk',reuse,0.21
+6, 17464,'nltk',reuse,0.31
+4, 4995,'nltk',unigue,7.30
+4, 10407,'words.txt',unigue,11.84
+4, 10407,'words.txt',unigue,70.80
+4, 10407,'words.txt',unigue,0.06
+4, 10407,'words.txt',unigue,28.73
+4, 10407,'words.txt',unigue,0.72
+5, 4384,'nouns.txt',unigue,169.67
+5, 21953,'words.txt',unigue,202.23
+5, 21953,'words.txt',unigue,918.26
+5, 21953,'words.txt',unigue,161.62
+3, 4363,'words.txt',unigue,0.01
+4, 10407,'words.txt',unigue,2.64
+4, 10407,'words.txt',unigue,81.49
+5, 4384,'nouns.txt',unigue,94.56
+(3, 3), 1147,'nouns.txt',unigue,0.01
+(3, 4), 3878,'nouns.txt',unigue,3.31
+4, 10407,'words.txt',unigue,0.22
+(3, 4), 3878,'nouns.txt',unigue,4.11
+(3, 4), 3878,'nouns.txt',unigue,5.95
+(3, 5), 5531,'nouns.txt',unigue,6.39
+(3, 5), 5531,'nouns.txt',unigue,14.88
+(3, 5), 5531,'nouns.txt',unigue,1.30
+(4, 5), 7115,'nouns.txt',unigue,20.87
+4, 10407,'words.txt',unigue,15.49
+(6, 3), 42577,'words.txt',unigue,0.23
+(6, 3), 42577,'words.txt',unigue,0.37
+(6, 3), 42577,'words.txt',unigue,0.22
+(7, 3), 54838,'words.txt',unigue,1.18
+(8, 3), 62551,'words.txt',unigue,1.57
+(3, 6), 42577,'words.txt',unigue,35.21
+(9, 3), 61652,'words.txt',unigue,97.45
+(7, 3), 54838,'words.txt',unigue,1.54
