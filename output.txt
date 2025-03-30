@@ -9084,3 +9084,232 @@ a u l u
 n s e m
 
 
+----------------
+(6, 3)x(6, 3) Grid of words in 0.06s:
+words.txt
+
+m a l a y s
+s i n d e r
+f a r n a m
+
+Columns:
+
+m s f
+a i a
+l n r
+a d n
+y e a
+s r m
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 117.55s:
+words.txt
+
+a x i n e
+l o u r y
+e s k a r
+k a a b a
+
+Columns:
+
+a l e k
+x o s a
+i u k a
+n r a b
+e y r a
+
+
+----------------
+(5, 5)x(5, 5) Grid of words in 0.01s:
+words.txt
+
+s c u t s
+c o r o a
+u r s e l
+t o e f l
+s a l l i
+
+Columns:
+
+s c u t s
+c o r o a
+u r s e l
+t o e f l
+s a l l i
+
+
+----------------
+(6, 6)x(6, 6) Grid of words in 4.77s:
+words.txt
+
+b o n a i r
+o p e r a e
+n e e d n t
+a r d i t h
+i a n t h e
+r e t h e r
+
+Columns:
+
+b o n a i r
+o p e r a e
+n e e d n t
+a r d i t h
+i a n t h e
+r e t h e r
+
+
+----------------
+(7, 7)x(7, 7) Grid of words in 6.88s:
+words.txt
+
+c h a t t e d
+h i g u e r o
+a g e i n g s
+t u i l l e s
+t e n l i n e
+e r g e n e r
+d o s s e r s
+
+Columns:
+
+c h a t t e d
+h i g u e r o
+a g e i n g s
+t u i l l e s
+t e n l i n e
+e r g e n e r
+d o s s e r s
+
+
+----------------
+(5, 5)x(5, 5) Grid of words in 0.11s:
+words.txt
+
+a r o c k
+r a y o n
+o y a n a
+c o n n u
+k n a u r
+
+Columns:
+
+a r o c k
+r a y o n
+o y a n a
+c o n n u
+k n a u r
+
+
+----------------
+(6, 6)x(6, 6) Grid of words in 0.29s:
+words.txt
+
+s o u t e r
+o t t i n e
+u t t e r s
+t i e p i n
+e n r i c a
+r e s n a p
+
+Columns:
+
+s o u t e r
+o t t i n e
+u t t e r s
+t i e p i n
+e n r i c a
+r e s n a p
+
+
+----------------
+(6, 6)x(6, 6) Grid of words in 0.17s:
+words.txt
+
+p u b i a n
+u s a b l e
+b a r y t e
+i b y c u s
+a l t u r e
+n e e s e s
+
+Columns:
+
+p u b i a n
+u s a b l e
+b a r y t e
+i b y c u s
+a l t u r e
+n e e s e s
+
+
+----------------
+(7, 7)x(7, 7) Grid of words in 61.36s:
+words.txt
+
+g r u d g e r
+r e n e r v e
+u n p l a i n
+d e l i s l e
+g r a s s e s
+e v i l e s t
+r e n e s t s
+
+Columns:
+
+g r u d g e r
+r e n e r v e
+u n p l a i n
+d e l i s l e
+g r a s s e s
+e v i l e s t
+r e n e s t s
+
+
+----------------
+(7, 7)x(7, 7) Grid of words in 100.23s:
+words.txt
+
+h u n g n a m
+u r o l o g y
+n o m a d i c
+g l a d i t e
+n o d i c a l
+a g i t a t e
+m y c e l e s
+
+Columns:
+
+h u n g n a m
+u r o l o g y
+n o m a d i c
+g l a d i t e
+n o d i c a l
+a g i t a t e
+m y c e l e s
+
+
+----------------
+(7, 7)x(7, 7) Grid of words in 70.66s:
+words.txt
+
+t o p a z e s
+o r a l i t y
+p a p o t t o
+a l o p h a s
+z i t h e r s
+e t t a r r e
+s y o s s e t
+
+Columns:
+
+t o p a z e s
+o r a l i t y
+p a p o t t o
+a l o p h a s
+z i t h e r s
+e t t a r r e
+s y o s s e t
+
+

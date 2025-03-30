@@ -19,12 +19,17 @@ def create_grid(wordlist, N):
 # @cache
 def fill_grid(grid, row, N, wordlist):
     X, Y = N
+    global NUMBER_RUNS
+    if NUMBER_RUNS >= MAX_RUNS:
+        raise Exception(f"\nsubroutine exceeds {MAX_RUNS}")
     # Base case: all rows are filled
     if row == Y:
         return True
 
     # Try each word in the wordlist for the current row
-    for word in wordlist:
+    (x_words, y_words) = wordlist
+    for word in x_words:
+        NUMBER_RUNS += 1
         # only consider words which match the index col if REUSE_WORDS
         if REUSE_WORDS and \
                 [word[i] for i in range(row)] != [grid[j][row] for j in range(row)]:
@@ -36,11 +41,11 @@ def fill_grid(grid, row, N, wordlist):
         grid[row] = list(word)
 
         # debugging
-        print([''.join(sublist) for sublist in grid], word, "               ", end='\r')
+        print([''.join(sublist) for sublist in grid], f"{NUMBER_RUNS:,}", "               ", end='\r')
 
         # Check if this row is valid by examining each column regex
         if all(has_valid_column_match(grid,
-            col, N, wordlist, used_words_in_grid(grid)) for col in range(X)):
+            col, N, y_words, used_words_in_grid(grid)) for col in range(X)):
             # Recursively try to fill the next row
             if fill_grid(grid, row + 1, N, wordlist):
                 return True
@@ -91,7 +96,7 @@ def display_grid(grid, execution_time):
         print("No valid grid found.")
 
 def get_wordlist(FILENAME, N):
-    # X, Y = N
+    X, Y = N
     try:
         with open(FILENAME, "r") as file:
             wordlist = set(word.strip().lower() for word in file \
@@ -101,6 +106,11 @@ def get_wordlist(FILENAME, N):
         wordlist = set(word.strip().lower() for word in words.words() \
                 if len(word.strip()) in N and \
                 word.strip().isalpha())
+    X_words = [word for word in wordlist if len(word) == X]
+    random.shuffle(X_words)
+    Y_words = [word for word in wordlist if len(word) == Y]
+    random.shuffle(Y_words)
+    wordlist = (X_words, Y_words)
     return wordlist
 
 def log_results(N, wl_length, filename, execution_time):
@@ -137,17 +147,23 @@ if __name__ == "__main__":
     else:
         N = (7,7)
 
-    wordlist = list(get_wordlist(FILENAME, N))
-    # wordlist.sort()
-    # random.shuffle(wordlist)
-    # print(wordlist)
-
-    print(f"starting with {N=},"
-            f"{FILENAME if FILENAME else 'nltk'}"
-            f"({len(wordlist):,} words) {'' if REUSE_WORDS else 'not '}reusing")
+    MAX_RUNS = 10_000_000
 
     start_time = time.time()
-    grid = create_grid(wordlist, N)
+    while True:
+        NUMBER_RUNS = 0
+        wordlist = get_wordlist(FILENAME, N)
+        print(f"starting with {N=},"
+              f"{FILENAME if FILENAME else 'nltk'}"
+              f"({len(wordlist[0]) + len(wordlist[1])} words) {'' if REUSE_WORDS else 'not '}reusing")
+        try:
+            grid = create_grid(wordlist, N)
+            if grid:
+                break
+        except Exception as e:
+            print(e)
+            print("restarting")
+            # break
     end_time = time.time()
     execution_time = end_time - start_time
     if grid:
