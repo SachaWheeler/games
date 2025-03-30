@@ -8668,3 +8668,419 @@ r i e
 s n r
 
 
+----------------
+(5, 4)x(5, 4) Grid of words in 96.50s:
+wlist_match1.txt
+
+p a n n a
+o g h a m
+c h a i r
+k a n g a
+
+Columns:
+
+p o c k
+a g h a
+n h a n
+n a i g
+a m r a
+
+
+----------------
+(7, 3)x(7, 3) Grid of words in 62.75s:
+wlist_match1.txt
+
+c a n t a r a
+o v e r s e w
+b e b a s t e
+
+Columns:
+
+c o b
+a v e
+n e b
+t r a
+a s s
+r e t
+a w e
+
+
+----------------
+(6, 4)x(6, 4) Grid of words in 58.84s:
+wlist_match1.txt
+
+s e a m a n
+g r o u g h
+a m u s i a
+d a l t o n
+
+Columns:
+
+s g a d
+e r m a
+a o u l
+m u s t
+a g i o
+n h a n
+
+
+----------------
+(8, 3)x(8, 3) Grid of words in 5.78s:
+wlist_match1.txt
+
+c i m i n i t e
+a c a d e m u s
+r e c e i p t s
+
+Columns:
+
+c a r
+i c e
+m a c
+i d e
+n e i
+i m p
+t u t
+e s s
+
+
+----------------
+(6, 3)x(6, 3) Grid of words in 7.65s:
+wlist_match1.txt
+
+t o m b i c
+a c h a t e
+a h o r s e
+
+Columns:
+
+t a a
+o c h
+m h o
+b a r
+i t s
+c e e
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 6.88s:
+wlist_match1.txt
+
+b r o n k
+l a d i n
+u n i c e
+b e n e t
+
+Columns:
+
+b l u b
+r a n e
+o d i n
+n i c e
+k n e t
+
+
+----------------
+(6, 3)x(6, 3) Grid of words in 45.22s:
+wlist_match1.txt
+
+i d i a s m
+n a t u r e
+d e a s i l
+
+Columns:
+
+i n d
+d a e
+i t a
+a u s
+s r i
+m e l
+
+
+----------------
+(6, 4)x(6, 4) Grid of words in 2414.12s:
+wlist_match1.txt
+
+i n w e e d
+s h e r p a
+b a l t e r
+a n t h e r
+
+Columns:
+
+i s b a
+n h a n
+w e l t
+e r t h
+e p e e
+d a r r
+
+
+----------------
+(9, 3)x(9, 3) Grid of words in 1184.72s:
+words_alpha.txt
+
+f r u t i c o u s
+p i n e a l o m a
+m e l a n o s e d
+
+Columns:
+
+f p m
+r i e
+u n l
+t e a
+i a n
+c l o
+o o s
+u m e
+s a d
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 46.87s:
+words_alpha.txt
+
+z a r f s
+a r u l o
+g y r i c
+s a u t e
+
+Columns:
+
+z a g s
+a r y a
+r u r u
+f l i t
+s o c e
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 198.56s:
+words_alpha.txt
+
+c o z i e
+c r a n e
+i n t n l
+d a i s y
+
+Columns:
+
+c c i d
+o r n a
+z a t i
+i n n s
+e e l y
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 378.72s:
+words.txt
+
+c h o l d
+u r i n a
+p i r o l
+s p a s s
+
+Columns:
+
+c u p s
+h r i p
+o i r a
+l n o s
+d a l s
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 1.60s:
+words.txt
+
+k i t h s
+a r u l o
+g a l e a
+i n e r m
+
+Columns:
+
+k a g i
+i r a n
+t u l e
+h l e r
+s o a m
+
+
+----------------
+(4, 3)x(4, 3) Grid of words in 0.00s:
+words.txt
+
+a a a a
+a a a l
+a a a s
+
+Columns:
+
+a a a
+a a a
+a a a
+a l s
+
+
+----------------
+(5, 3)x(5, 3) Grid of words in 0.01s:
+words.txt
+
+a a h e d
+a a l i i
+a a l s t
+
+Columns:
+
+a a a
+a a a
+h l l
+e i s
+d i t
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 456.56s:
+words.txt
+
+a a h e d
+a a l i i
+a n e l e
+l i r a s
+
+Columns:
+
+a a a l
+a a n i
+h l e r
+e i l a
+d i e s
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 453.48s:
+words.txt
+
+a a h e d
+a a l i i
+a n e l e
+l i r a s
+
+Columns:
+
+a a a l
+a a n i
+h l e r
+e i l a
+d i e s
+
+
+----------------
+(10, 3)x(10, 3) Grid of words in 1.78s:
+words.txt
+
+i r r e m e a b l y
+w e l s h w o m a n
+s o l i d a r i z e
+
+Columns:
+
+i w s
+r e o
+r l l
+e s i
+m h d
+e w a
+a o r
+b m i
+l a z
+y n e
+
+
+----------------
+(6, 3)x(6, 3) Grid of words in 22.81s:
+words_alpha.txt
+
+a r u n t a
+u n b a r b
+l d i n f o
+
+Columns:
+
+a u l
+r n d
+u b i
+n a n
+t r f
+a b o
+
+
+----------------
+(6, 4)x(6, 4) Grid of words in 129.56s:
+words_alpha.txt
+
+a p p o r t
+a r i s e r
+l i r a t e
+s n o r e s
+
+Columns:
+
+a a l s
+p r i n
+p i r o
+o s a r
+r e t e
+t r e s
+
+
+----------------
+(15, 3)x(15, 3) Grid of words in 22.00s:
+words.txt
+
+m e g a l o p h t h a l m u s
+c y c l o s t o m a t i d a e
+i n t e r s t r a t i f i e d
+
+Columns:
+
+m c i
+e y n
+g c t
+a l e
+l o r
+o s s
+p t t
+h o r
+t m a
+h a t
+a t i
+l i f
+m d i
+u a e
+s e d
+
+
+----------------
+(6, 4)x(6, 4) Grid of words in 170.81s:
+words.txt
+
+r a c k a n
+d o l i u s
+e l e e l e
+s i g l u m
+
+Columns:
+
+r d e s
+a o l i
+c l e g
+k i e l
+a u l u
+n s e m
+
+

@@ -122,22 +122,24 @@ if __name__ == "__main__":
     else:
         FILENAME = None
 
-    if args.number is not None:  # and args.number > 1:  # and args.number < 10:
-        if "," in args.number:
-            X, Y = args.number.split(",")
-            N = (int(X), int(Y))
-        elif args.number.isdigit():
-            N = (int(args.number), int(args.number))
-    else:
-        N = (7,7)
-
     if args.reuse is not None:
         REUSE_WORDS = True  # if True, words are reused in cols
     else:
         REUSE_WORDS = not True
 
+    if args.number is not None:  # and args.number > 1:  # and args.number < 10:
+        if "," in args.number:
+            X, Y = args.number.split(",")
+            N = (int(X), int(Y))
+            REUSE_WORDS = not True
+        elif args.number.isdigit():
+            N = (int(args.number), int(args.number))
+    else:
+        N = (7,7)
+
     wordlist = list(get_wordlist(FILENAME, N))
-    random.shuffle(wordlist)
+    # wordlist.sort()
+    # random.shuffle(wordlist)
     # print(wordlist)
 
     print(f"starting with {N=},"
