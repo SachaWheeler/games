@@ -9313,3 +9313,310 @@ e t t a r r e
 s y o s s e t
 
 
+----------------
+(5, 4)x(5, 4) Grid of words in 142.15s:
+words.txt
+
+i c k l e
+f e l i d
+l i e g e
+a l e e n
+
+Columns:
+
+i f l a
+c e i l
+k l e e
+l i g e
+e d e n
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 43.96s:
+words.txt
+
+s n o g a
+m o l e r
+a n l e t
+s e a t s
+
+Columns:
+
+s m a s
+n o n e
+o l l a
+g e e t
+a r t s
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 58.21s:
+words.txt
+
+w e e m s
+a c e a n
+c a r r y
+e d y i e
+
+Columns:
+
+w a c e
+e c a d
+e e r y
+m a r i
+s n y e
+
+
+----------------
+(6, 6)x(6, 6) Grid of words in 3.09s:
+nouns.txt
+
+t e r r o r
+e l u a t e
+r u s t i c
+r a t i t e
+o t i t i s
+r e c e s s
+
+Columns:
+
+t e r r o r
+e l u a t e
+r u s t i c
+r a t i t e
+o t i t i s
+r e c e s s
+
+
+----------------
+(6, 6)x(6, 6) Grid of words in 3.70s:
+nouns.txt
+
+m a l o n e
+a g a r i c
+l a g u n e
+o r u d i s
+n i n i g i
+e c e s i s
+
+Columns:
+
+m a l o n e
+a g a r i c
+l a g u n e
+o r u d i s
+n i n i g i
+e c e s i s
+
+
+----------------
+(6, 6)x(6, 6) Grid of words in 1.45s:
+nouns.txt
+
+s m a r t a
+m o h a i r
+a h i m s a
+r a m m a n
+t i s a n e
+a r a n e a
+
+Columns:
+
+s m a r t a
+m o h a i r
+a h i m s a
+r a m m a n
+t i s a n e
+a r a n e a
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 63.66s:
+words.txt
+
+g a v a n
+l u n g e
+a t l a s
+d e f o e
+
+Columns:
+
+g l a d
+a u t e
+v n l f
+a g a o
+n e s e
+
+
+----------------
+(7, 7)x(7, 7) Grid of words in 64.32s:
+words.txt
+
+s l u d g e r
+l u m i e r e
+u m b o n a l
+d i o c e s e
+g e n e s e s
+e r a s e r s
+r e l e s s a
+
+Columns:
+
+s l u d g e r
+l u m i e r e
+u m b o n a l
+d i o c e s e
+g e n e s e s
+e r a s e r s
+r e l e s s a
+
+
+----------------
+(7, 7)x(7, 7) Grid of words in 225.30s:
+words.txt
+
+n i i g a t a
+i o d i n e s
+i d e a t e s
+g i a n i n a
+a n t i g a y
+t e e n a g e
+a s s a y e d
+
+Columns:
+
+n i i g a t a
+i o d i n e s
+i d e a t e s
+g i a n i n a
+a n t i g a y
+t e e n a g e
+a s s a y e d
+
+
+----------------
+(7, 7)x(7, 7) Grid of words in 50.18s:
+words.txt
+
+p e n f o l d
+e p e i d i a
+n e l s o n s
+f i s h n e t
+o d o n a t e
+l i n e t t e
+d a s t e e l
+
+Columns:
+
+p e n f o l d
+e p e i d i a
+n e l s o n s
+f i s h n e t
+o d o n a t e
+l i n e t t e
+d a s t e e l
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 94.97s:
+words.txt
+
+s o r e x
+s a u v e
+a s s a m
+s t o p a
+
+Columns:
+
+s s a s
+o a s t
+r u s o
+e v a p
+x e m a
+
+
+----------------
+(7, 7)x(7, 7) Grid of words in 289.74s:
+words.txt
+
+t e p e h u a
+e p i m e r s
+p i m e l i c
+e m e l i n e
+h e l i c o n
+u r i n o s e
+a s c e n e z
+
+Columns:
+
+t e p e h u a
+e p i m e r s
+p i m e l i c
+e m e l i n e
+h e l i c o n
+u r i n o s e
+a s c e n e z
+
+
+----------------
+(7, 7)x(7, 7) Grid of words in 96.92s:
+words.txt
+
+r u g g e r s
+u n e a t e n
+g e r m a n o
+g a m b l e r
+e t a l a g e
+r e n e g e r
+s n o r e r s
+
+Columns:
+
+r u g g e r s
+u n e a t e n
+g e r m a n o
+g a m b l e r
+e t a l a g e
+r e n e g e r
+s n o r e r s
+
+
+----------------
+(6, 4)x(6, 4) Grid of words in 568.96s:
+words.txt
+
+c a k i l e
+a u m a i l
+c r e s p i
+m a l o p e
+
+Columns:
+
+c a c m
+a u r a
+k m e l
+i a s o
+l i p p
+e l i e
+
+
+----------------
+(7, 4)x(7, 4) Grid of words in 964.61s:
+words.txt
+
+u n w i t t y
+f o r d a y s
+e t i e n n e
+r e t r i e r
+
+Columns:
+
+u f e r
+n o t e
+w r i t
+i d e r
+t a n i
+t y n e
+y s e r
+
+

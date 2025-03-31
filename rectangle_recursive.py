@@ -29,7 +29,6 @@ def fill_grid(grid, row, N, wordlist):
     # Try each word in the wordlist for the current row
     (x_words, y_words) = wordlist
     for word in x_words:
-        NUMBER_RUNS += 1
         # only consider words which match the index col if REUSE_WORDS
         if REUSE_WORDS and \
                 [word[i] for i in range(row)] != [grid[j][row] for j in range(row)]:
@@ -37,6 +36,7 @@ def fill_grid(grid, row, N, wordlist):
         if len(word) != X or word in used_words_in_grid(grid):  # Don't repeat rows
             continue
 
+        NUMBER_RUNS += 1
         # Place the word in the current row
         grid[row] = list(word)
 
@@ -147,7 +147,7 @@ if __name__ == "__main__":
     else:
         N = (7,7)
 
-    MAX_RUNS = 10_000_000
+    MAX_RUNS = 100_000
 
     start_time = time.time()
     while True:
