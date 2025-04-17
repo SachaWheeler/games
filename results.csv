@@ -202,3 +202,6 @@
 (7, 7), 2,'words.txt',reuse,96.92
 (6, 4), 2,'words.txt',unigue,568.96
 (7, 4), 2,'words.txt',unigue,964.61
+(6, 4), 2,'words_alpha.txt',unigue,74.64
+(5, 4), 2,'words_alpha.txt',unigue,108.85
+(5, 4), 2,'words.txt',unigue,37.38

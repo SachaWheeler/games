@@ -9620,3 +9620,58 @@ t y n e
 y s e r
 
 
+----------------
+(6, 4)x(6, 4) Grid of words in 74.64s:
+words_alpha.txt
+
+k r i s e s
+r i g h t o
+a b l a u t
+s e u d a h
+
+Columns:
+
+k r a s
+r i b e
+i g l u
+s h a d
+e t u a
+s o t h
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 108.85s:
+words_alpha.txt
+
+c l a g s
+m e m o s
+d a m m e
+g l u e d
+
+Columns:
+
+c m d g
+l e a l
+a m m u
+g o m e
+s s e d
+
+
+----------------
+(5, 4)x(5, 4) Grid of words in 37.38s:
+words.txt
+
+f i l e a
+t i l t s
+a l e u s
+m a r a t
+
+Columns:
+
+f t a m
+i i l a
+l l e r
+e t u a
+a s s t
+
+
