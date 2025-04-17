@@ -173,7 +173,7 @@ if __name__ == "__main__":
     else:
         N = (7, 7)
 
-    MAX_RUNS = 100_000
+    MAX_RUNS = 1_000_000
 
     start_time = time.time()
     while True:
