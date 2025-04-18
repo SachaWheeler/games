@@ -1,5 +1,9 @@
 import multiprocessing as mp
 from collections import defaultdict
+from nltk.corpus import words
+import os
+import argparse
+
 
 
 def build_prefix_dict(words, N):
@@ -64,13 +68,39 @@ def find_word_squares(word_list, N):
 
 
 if __name__ == "__main__":
-    N = 8  # or any size you want
-    # with open('./words_alpha.txt') as f:
-    with open("/usr/share/dict/words") as f:
-        words = [line.strip() for line in f]
+    parser = argparse.ArgumentParser(description='My script')
+
+    # Add arguments
+    parser.add_argument('--file', type=str, default='words.txt', help='Text file to process')
+    parser.add_argument('--num', type=int, default=5, help='Number of lines in the file')
+
+    args = parser.parse_args()
+    N = args.num
+
+    WORDFILE = args.file
+    if os.path.isfile(WORDFILE):
+        with open(WORDFILE) as file:
+            words = set(
+                    word.strip().lower()
+                    for word in file
+                    if len(word.strip()) == N and word.strip().isalpha())
+    else:
+        words = set(
+            word.strip().lower()
+            for word in words.words()
+            if len(word.strip()) == N and word.strip().isalpha()
+        )
+        WORDFILE = "nltk"
+    legend = f"{N} letters from {WORDFILE} ({len(words):,})"
+    print(legend)
 
     squares = find_word_squares(words, N)
+    legend += f" ({len(squares):,} squares from {len(words):,} words)"
 
-    for square in squares:
-        print("\n".join(square))
-        print("---")
+    with open("output.txt", "a") as output:
+        output.write(f"\n{legend}\n")
+        for square in squares:
+            output.write("\n".join(square))
+            output.write("\n---\n")
+
+    print(f"{len(squares):,} squares")
