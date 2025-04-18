@@ -3,7 +3,7 @@ from collections import defaultdict
 from nltk.corpus import words
 import os
 import argparse
-
+import copy
 
 
 def build_prefix_dict(words, N):
@@ -51,6 +51,7 @@ def build_square(start_word, word_list, prefix_dict, N):
 
 def worker(args):
     start_word, word_list, prefix_dict, N = args
+
     return build_square(start_word, word_list, prefix_dict, N)
 
 
@@ -62,17 +63,22 @@ def find_word_squares(word_list, N):
 
     with mp.Pool() as pool:
         results = pool.map(worker, args)
+        # return
 
     all_squares = [square for sublist in results for square in sublist]
     return all_squares
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='My script')
+    parser = argparse.ArgumentParser(description="My script")
 
     # Add arguments
-    parser.add_argument('--file', type=str, default='words.txt', help='Text file to process')
-    parser.add_argument('--num', type=int, default=5, help='Number of lines in the file')
+    parser.add_argument(
+        "--file", type=str, default="words.txt", help="Text file to process"
+    )
+    parser.add_argument(
+        "--num", type=int, default=5, help="Number of lines in the file"
+    )
 
     args = parser.parse_args()
     N = args.num
@@ -81,9 +87,10 @@ if __name__ == "__main__":
     if os.path.isfile(WORDFILE):
         with open(WORDFILE) as file:
             words = set(
-                    word.strip().lower()
-                    for word in file
-                    if len(word.strip()) == N and word.strip().isalpha())
+                word.strip().lower()
+                for word in file
+                if len(word.strip()) == N and word.strip().isalpha()
+            )
     else:
         words = set(
             word.strip().lower()
