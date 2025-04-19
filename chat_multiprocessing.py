@@ -17,9 +17,11 @@ def build_prefix_dict(words, N):
 
 
 def is_valid_prefix(square, row, N, prefix_dict):
+    # print(square, row + 1, N)
     for col in range(N):
         prefix = "".join(square[i][col] for i in range(row + 1))
-        if prefix not in prefix_dict:
+        if prefix not in prefix_dict: # or prefix in square
+            # print(prefix, prefix in square)
             return False
     return True
 
@@ -33,6 +35,7 @@ def build_square(start_word, word_list, prefix_dict, N):
             return
 
         prefix = "".join([row[len(square)] for row in square])
+        # print(square, prefix, prefix_dict[prefix])
         for candidate in prefix_dict.get(prefix, []):
             if candidate in used_words:
                 continue
@@ -70,14 +73,13 @@ def find_word_squares(word_list, N):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="My script")
+    parser = argparse.ArgumentParser(description="Word Square finder")
 
-    # Add arguments
     parser.add_argument(
-        "--file", type=str, default="words.txt", help="Text file to process"
+        "--file", type=str, default="words.txt", help="Wordlist file"
     )
     parser.add_argument(
-        "--num", type=int, default=5, help="Number of lines in the file"
+        "--num", type=int, default=5, help="Size of the square"
     )
 
     args = parser.parse_args()
@@ -85,13 +87,13 @@ if __name__ == "__main__":
 
     WORDFILE = args.file
     if os.path.isfile(WORDFILE):
-        with open(WORDFILE) as file:
+        with open(WORDFILE, encoding='utf-8', errors='ignore') as file:
             words = set(
                 word.strip().lower()
                 for word in file
                 if len(word.strip()) == N and word.strip().isalpha()
             )
-    else:
+    else:  # nltk
         words = set(
             word.strip().lower()
             for word in words.words()
