@@ -16,14 +16,32 @@ def build_prefix_dict(words, N):
     return prefix_dict
 
 
+"""
 def is_valid_prefix(square, row, N, prefix_dict):
     # print(square, row + 1, N)
     for col in range(N):
         prefix = "".join(square[i][col] for i in range(row + 1))
+        # print(prefix)
         if prefix not in prefix_dict: # or prefix in square
-            # print(prefix, prefix in square)
+            # print(prefix, prefix in prefix_dict)
             return False
     return True
+"""
+def is_valid_prefix(square, row, N, prefix_dict):
+    for col in range(N):
+        col_prefix = ''.join(square[i][col] for i in range(row + 1))
+
+        if col_prefix not in prefix_dict:
+            return False
+
+        # Disallow exact row == column match (symmetry breaker)
+        if row + 1 == N:
+            col_word = ''.join(square[i][col] for i in range(N))
+            if col_word in square:
+                return False
+
+    return True
+
 
 
 def build_square(start_word, word_list, prefix_dict, N):
@@ -34,9 +52,9 @@ def build_square(start_word, word_list, prefix_dict, N):
             squares.append(square[:])
             return
 
-        prefix = "".join([row[len(square)] for row in square])
+        # prefix = "".join([row[len(square)] for row in square])
         # print(square, prefix, prefix_dict[prefix])
-        for candidate in prefix_dict.get(prefix, []):
+        for candidate in word_list:
             if candidate in used_words:
                 continue
             square.append(candidate)
