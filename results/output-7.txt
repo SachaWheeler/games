@@ -8,3 +8,5 @@
 7 letters from wlist_match1.txt (211,010)
 
 7 letters from words_alpha.txt (41,998)
+
+7 letters from words_alpha.txt (41,998)
