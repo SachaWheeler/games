@@ -4,6 +4,7 @@ from nltk.corpus import words
 import os
 import argparse
 import copy
+import random
 
 
 def build_prefix_dict(words, N):
@@ -16,32 +17,20 @@ def build_prefix_dict(words, N):
     return prefix_dict
 
 
-"""
-def is_valid_prefix(square, row, N, prefix_dict):
-    # print(square, row + 1, N)
-    for col in range(N):
-        prefix = "".join(square[i][col] for i in range(row + 1))
-        # print(prefix)
-        if prefix not in prefix_dict: # or prefix in square
-            # print(prefix, prefix in prefix_dict)
-            return False
-    return True
-"""
 def is_valid_prefix(square, row, N, prefix_dict):
     for col in range(N):
-        col_prefix = ''.join(square[i][col] for i in range(row + 1))
+        col_prefix = "".join(square[i][col] for i in range(row + 1))
 
         if col_prefix not in prefix_dict:
             return False
 
         # Disallow exact row == column match (symmetry breaker)
         if row + 1 == N:
-            col_word = ''.join(square[i][col] for i in range(N))
+            col_word = "".join(square[i][col] for i in range(N))
             if col_word in square:
                 return False
 
     return True
-
 
 
 def build_square(start_word, word_list, prefix_dict, N):
@@ -50,10 +39,13 @@ def build_square(start_word, word_list, prefix_dict, N):
     def backtrack(square, used_words):
         if len(square) == N:
             squares.append(square[:])
+
+            results = "\n".join([" ".join(word) for word in square])
+            with open(f"results/output-{N}.txt", "a") as output:
+                output.write(f"\n{results}\n")
+                output.write(f"{'-' * 2*N}\n")
             return
 
-        # prefix = "".join([row[len(square)] for row in square])
-        # print(square, prefix, prefix_dict[prefix])
         for candidate in word_list:
             if candidate in used_words:
                 continue
@@ -72,6 +64,7 @@ def build_square(start_word, word_list, prefix_dict, N):
 
 def worker(args):
     start_word, word_list, prefix_dict, N = args
+    random.shuffle(word_list)
 
     return build_square(start_word, word_list, prefix_dict, N)
 
@@ -93,19 +86,15 @@ def find_word_squares(word_list, N):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Word Square finder")
 
-    parser.add_argument(
-        "--file", type=str, default="words.txt", help="Wordlist file"
-    )
-    parser.add_argument(
-        "--num", type=int, default=5, help="Size of the square"
-    )
+    parser.add_argument("--file", type=str, default="words.txt", help="Wordlist file")
+    parser.add_argument("--num", type=int, default=5, help="Size of the square")
 
     args = parser.parse_args()
     N = args.num
 
     WORDFILE = args.file
     if os.path.isfile(WORDFILE):
-        with open(WORDFILE, encoding='utf-8', errors='ignore') as file:
+        with open(WORDFILE, encoding="utf-8", errors="ignore") as file:
             words = set(
                 word.strip().lower()
                 for word in file
@@ -120,14 +109,16 @@ if __name__ == "__main__":
         WORDFILE = "nltk"
     legend = f"{N} letters from {WORDFILE} ({len(words):,})"
     print(legend)
+    with open(f"results/output-{N}.txt", "a") as output:
+        output.write(f"\n{legend}\n")
 
     squares = find_word_squares(words, N)
     legend += f" ({len(squares):,} squares from {len(words):,} words)"
 
-    with open("output.txt", "a") as output:
-        output.write(f"\n{legend}\n")
-        for square in squares:
-            output.write("\n".join(square))
-            output.write("\n---\n")
+    """
+    for square in squares:
+        output.write("\n".join(square))
+        output.write("\n---\n")
+    """
 
     print(f"{len(squares):,} squares")

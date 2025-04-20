@@ -1,0 +1,10 @@
+
+7 letters from nltk (23,714)
+
+7 letters from words.txt (50,475)
+
+7 letters from nouns.txt (7,549)
+
+7 letters from wlist_match1.txt (211,010)
+
+7 letters from words_alpha.txt (41,998)

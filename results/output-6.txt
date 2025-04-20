@@ -1,0 +1,815 @@
+
+u n h i g h
+s i p s e y
+u l i t i s
+r o t h k o
+e t a m i n
+r e l i e s
+
+w i s e s t
+r o a d i e
+a l c m a n
+g i r o n s
+e t e r n e
+r e d e a r
+
+r a g g e e
+a c t i a n
+b a h a d a
+b r i n i e
+l i t t o n
+e d e s s a
+
+o r e m a n
+m a n i f y
+a n o g r a
+h e d g e s
+a r a l e s
+s e l e t a
+
+o r e m a n
+m a n i f y
+a n o g r a
+h u s h e l
+a l i t t a
+s a s s e s
+
+r o m b o s
+a s a r i n
+m o t i l e
+t r a g i a
+i n c u l k
+l o o e y s
+
+r o m b o s
+a s a r i n
+m o t i l e
+t r a g i a
+i n c u l p
+l o o e y s
+
+r o m b o s
+a s a r i n
+m o t i l e
+t r a g i c
+i n c u l k
+l o o e y s
+
+h u l k e d
+a s a r i n
+b u c a r e
+e r o s e s
+r e t i n t
+e r a s e r
+
+r o m b o s
+a s a r i n
+p o m e l o
+p r a v i t
+e n m i s t
+r o u t h y
+
+a c t i a n
+c l u m p s
+h a m m e d
+s n o o l s
+a c u t e s
+h e r e t o
+
+g o r d o n
+a s a r i n
+g i s e l a
+e n h e l m
+r e e d e d
+s t r a t i
+
+w i s e s t
+r o a d i e
+e n l i m n
+s i u s a n
+a s t o r e
+t e e n s y
+
+h a l l i e
+e q u i t y
+n u g g a r
+t a g u l a
+e t a l o n
+r e r e n t
+
+f i c h u s
+a c h o r n
+b i a g i o
+l e n g e r
+e s c e n t
+s t a r t s
+
+f i c h u s
+a c h o r n
+b i a g i o
+l e n g e r
+e s c e n t
+s t a r t y
+
+n i u e a n
+u l r i c a
+g l a s e r
+g a r e r i
+a n i l i c
+r o s e n a
+
+n i u e a n
+u l r i c a
+g l a s e r
+g a r e r i
+a n i l i n
+r o s e n e
+
+r o m b o s
+a s a r i n
+s a v o l a
+s m e l l s
+l i n g e t
+e n s a t e
+
+6 letters from nltk (17,464)
+
+h e l i n g
+a x o n i a
+s c r e a m
+t i e r c e
+e t a m i n
+r e l i n e
+------------
+
+6 letters from nouns.txt (6,308)
+
+6 letters from wlist_match1.txt (182,211)
+
+a b n o r m
+f o s s i l
+p i n k e d
+f l o a t e
+l e d n e r
+s t e a r n
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+r e s o l a
+e r o t i f
+s e n o s i
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+r e s o l a
+e r o t i c
+s e n s s e
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+r e s o l a
+e r o t e m
+s e n o c h
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+r e s o l a
+e r o t o c
+s e n s s e
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+c e s a r o
+k r o s a n
+s e n a s a
+------------
+
+t o y o r a
+f o s s i l
+o r o n y a
+r i l i a n
+c a d e n e
+e l a l a n
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+r a s o l o
+e k o t t o
+s i n t o n
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i c l e a n
+s i e c l e
+k a h t a n
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i c l e a n
+s i l e n e
+k e a r i n
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i c l e a n
+s i l e n e
+k a a r i n
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i c l e a n
+s h e e n e
+k o h r a n
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i c l e a n
+s h e e l e
+k o h r a n
+------------
+
+p i e r c y
+f o s s i l
+i l l o r a
+l i o n e t
+e t h a n e
+s e e l e d
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i d a e i n
+s i r e n e
+k a a r o n
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i d a e i n
+s a r c l e
+k r a t o n
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i d a e i n
+s e r e n e
+k l a r o n
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+c e s u r a
+t r o d a t
+s e n e s e
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i d a e i n
+s a n c t e
+k r s t a n
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i d a e i n
+s a n c t e
+k r a t o n
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i d a e i n
+s i n c l e
+k a s t o n
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i d a e i n
+s e r e r e
+k l a r i n
+------------
+
+s p a r k y
+f o s s i l
+d n e p r o
+i d a e i n
+s e n e r e
+k l a r i n
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+r e s a l a
+e r o r i c
+s e n s s e
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+r e s o r t
+e r o u t e
+s e n t o r
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+c e s a r i
+k r o l a k
+s e n e s e
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+c e s a r i
+k r o l a k
+s e n i s e
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+c e s a r i
+k r o s a n
+s e n a s a
+------------
+
+a n i l a o
+f o s s i l
+d n e p r o
+e s t a i n
+r e a c e d
+a s n e l e
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+r e s a l t
+e r o u t e
+s e n t o r
+------------
+
+s p a r k y
+f o s s i l
+e n g e l a
+r e a u l t
+e n i m i e
+s t r e e d
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+f e s a p o
+t r o m a n
+s e n e c s
+------------
+
+c a l e c a
+f o s s i l
+a r e c e s
+f e s a p o
+t r o m a n
+s e n e c a
+------------
+
+m a y o k i
+f o s s i l
+l u t h i e
+a d r e n t
+g i a r d i
+s a d d a n
+------------
+
+m a y o k i
+f o s s i l
+l u t h i e
+a d r e n t
+g i a r d i
+s a d e a n
+------------
+
+b e i t e r
+f o s s i l
+a r r a l e
+a t e l l a
+m i a k i s
+e c l o s e
+------------
+
+b e i t e r
+f o s s i l
+a r r a l e
+a g a l e v
+m i n k e s
+e a i o n e
+------------
+
+a c u a l y
+f o s s i l
+p e r r e e
+e l e a n s
+r i a n t i
+s a l a s a
+------------
+
+a c u a l y
+f o s s i l
+p e r r e e
+e l e a n s
+r i a n t i
+s a l i z a
+------------
+
+b e i t e r
+f o s s i l
+a r r a l e
+a g a l e v
+m i l k e s
+e a i o n e
+------------
+
+m a y o k i
+f o s s i l
+l u t h i e
+o n e m i g
+p i r a n a
+s t a n d l
+------------
+
+p i e r c y
+f o s s i l
+a c e t t e
+f o r a y s
+f r i t t i
+s e n e v a
+------------
+
+b e i t e r
+f o s s i l
+a r r a l e
+a g e i l a
+m i l k e s
+e a i o n e
+------------
+
+b e i t e r
+f o s s i l
+a r r a l e
+a d a m i a
+m e n p e s
+e a i o n e
+------------
+
+b e i t e r
+f o s s i l
+a r r a l e
+a d a l i a
+m e e k e s
+e a i o n e
+------------
+
+b e i t e r
+f o s s i l
+a r r a l e
+a d a l i a
+m e n k e s
+e a i o n e
+------------
+
+g u n b a d
+f o s s i l
+i n s i t u
+n u n d a h
+e m p e n o
+t a s s i s
+------------
+
+m a y o k i
+f o s s i l
+l u t h i e
+a l o m s t
+g o r a l i
+s u e n a n
+------------
+
+t o y o r a
+f o s s i l
+p h a n i e
+s o n i t a
+a g n e t s
+t a a l a t
+------------
+
+a n i l a o
+f o s s i l
+d n e p r o
+e r t a i n
+r e a c e d
+a s n e l e
+------------
+
+b e i t e r
+f o s s i l
+a r r a l e
+a g a n d a
+m i l k o s
+e a i o n e
+------------
+
+b e i t e r
+f o s s i l
+a r r a l e
+a d a n e v
+m e e k e s
+e a i o n e
+------------
+
+b e i t e r
+f o s s i l
+a r r a l e
+a d a n e v
+m e n k e s
+e a i o n e
+------------
+
+6 letters from words_alpha.txt (29,874)
+
+d r o i t s
+y a l l o w
+a c e i t e
+b i a c i d
+l a s i n g
+e l e n g e
+------------
+
+w a r n e r
+o n e i d a
+n o d d e r
+g u d a m e
+a r e n a s
+h a r a s t
+------------
+
+c l e a v e
+y a l l o w
+s t a b l e
+t e n o u r
+i n c i t e
+s t e n a r
+------------
+
+p o w n i e
+o n e i d a
+p l a n a r
+l i n g e t
+a n e p i a
+r e l o n g
+------------
+
+t a m b o o
+o n e i d a
+t u r r e t
+a r i o l e
+l i n d e r
+s c o o t s
+------------
+
+t a m b o o
+o n e i d a
+t u r r e t
+a r i o l e
+l a n d e r
+s n o o t s
+------------
+
+t a m b o o
+o n e i d a
+t u r r e t
+o s e l l e
+r e l i e r
+a s s e t s
+------------
+
+m a r l e d
+o n e i d a
+r a s o u r
+e g e n c e
+l a n n e r
+s p e e d s
+------------
+
+d r o i t s
+j a r g o n
+e m e u t e
+l u x a t e
+a l i n e s
+b e s a n t
+------------
+
+b l i e s t
+y a l l o w
+s i l e n i
+s o a v e s
+a s n o r t
+l e o n i s
+------------
+
+w a r n e r
+o n e i d a
+m a n n e t
+e n i g m a
+r a g l a n
+a s s e s s
+------------
+
+r o b e r t
+i d o t e a
+s e n u s i
+e l e v e n
+r e t e n t
+s t e e d s
+------------
+
+w a r n e r
+o n e i d a
+m a m m i n
+e n i s l e
+r a t h e r
+a s s i s e
+------------
+
+w a r n e r
+o n e i d a
+m a m m i n
+e n i s l e
+r a s h e r
+a s s i s e
+------------
+
+w a r n e r
+o n e i d a
+m a m m i n
+b h i s t i
+l a t h e n
+e o s i d e
+------------
+
+b l i e s t
+y a l l o w
+p r i o r i
+a r c i t e
+s e i n e r
+s e c e s s
+------------
+
+b l i e s t
+y a l l o w
+p r i o r i
+a r c i t e
+s e i s e r
+s e c e s s
+------------
+
+w a r n e d
+o n e i d a
+a l i n i t
+l a n g l e
+d u e l e r
+s t r e s s
+------------
+
+b l i e s t
+y a l l o w
+p r i o r y
+a r c i t e
+s e i n e r
+s e c e s s
+------------
+
+b l i e s t
+y a l l o w
+p r i o r y
+a r c i t e
+s e i s e r
+s e c e s s
+------------
+
+d e u n a m
+i n d u c e
+s h a m i r
+c a l i n e
+o l e n u s
+s o r e s t
+------------
+
+6 letters from words_alpha.txt (29,874)
+
+s u c c i n
+i n h a l e
+t h i b l e
+k o n r a d
+a m a i n e
+n e s t o r
+------------
+
+c a s k e t
+s w o o s h
+e r r i t e
+c e i b a s
+t a t a m i
+s k e l p s
+------------
+
+j o c k e r
+e l u a t e
+h i l l o s
+a n e p i a
+d i t a l i
+s a s s e d
+------------
+
+g r o v e l
+r o m e r o
+a d e n i n
+d e l i c e
+u n i t a l
+s t e e l y
+------------
+
+j o c k e r
+e l u a t e
+t e r r a s
+t a i l g e
+e s t u r e
+r e e k e d
+------------
+
+s p i n e t
+c o t y p e
+a r a l i a
+l i l a c s
+e n i s l e
+d a c t y l
+------------
+
+s t o u p s
+p a w n i e
+e m e r s e
+c i n e o l
+u n i a t e
+s e a l e d
+------------
+
+s u c c i n
+i n h a l e
+t r i l l o
+c o e l i n
+o b l a t e
+m e s s e d
+------------
+
+s u c c i n
+i n h a l e
+t r i l l o
+h a g l i n
+e r g a t e
+s e a t e d
+------------
