@@ -2,3 +2,959 @@
 7 letters from nltk (37,631)
 
 7 letters from nltk (43,833)
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+y a n k      
+m e a l      
+a a r e      
+--------------
+aare   : (4) a river in north central Switzerland that runs northeast into the Rhine
+achaea : (6) a region of ancient Greece on the north coast of the Peloponnese
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+cyma   : (4) (architecture) a molding for a cornice; in profile it is shaped like an S (partly concave and partly convex)
+dude   : (4) an informal form of address for a man
+meal   : (4) the food served and eaten at one time
+oink   : (4) the short low gruff noise of the kind made by hogs
+thenar : (6) the fleshy area of the palm at the base of the thumb
+yank   : (4) an American who lives in the North (especially during the American Civil War)
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+y a n k      
+s e a l      
+t a l e      
+--------------
+achaea : (6) a region of ancient Greece on the north coast of the Peloponnese
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+cyst   : (4) a closed sac that develops abnormally in some body structure
+dude   : (4) an informal form of address for a man
+oink   : (4) the short low gruff noise of the kind made by hogs
+seal   : (4) fastener consisting of a resinous composition that is plastic when warm; used for sealing documents and parcels and letters
+tale   : (4) a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program
+thenal : (6) of or relating to the palm of the hand or to the area at the base of the thumb
+yank   : (4) an American who lives in the North (especially during the American Civil War)
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+y a n k      
+s e a l      
+t a r e      
+--------------
+achaea : (6) a region of ancient Greece on the north coast of the Peloponnese
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+cyst   : (4) a closed sac that develops abnormally in some body structure
+dude   : (4) an informal form of address for a man
+oink   : (4) the short low gruff noise of the kind made by hogs
+seal   : (4) fastener consisting of a resinous composition that is plastic when warm; used for sealing documents and parcels and letters
+tare   : (4) an adjustment made for the weight of the packaging in order to determine the net weight of the goods
+thenar : (6) the fleshy area of the palm at the base of the thumb
+yank   : (4) an American who lives in the North (especially during the American Civil War)
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+r i n k      
+o r a l      
+p a l e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+crop   : (4) the yield from plants in a single growing season
+dude   : (4) an informal form of address for a man
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+pale   : (4) a wooden strip forming part of a fence
+rink   : (4) building that contains a surface for ice skating or roller skating
+thenal : (6) of or relating to the palm of the hand or to the area at the base of the thumb
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+r i n k      
+o r a l      
+w a l e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+crow   : (4) black birds having a raucous call
+dude   : (4) an informal form of address for a man
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+rink   : (4) building that contains a surface for ice skating or roller skating
+thenal : (6) of or relating to the palm of the hand or to the area at the base of the thumb
+wale   : (4) a raised mark on the skin (as produced by the blow of a whip); characteristic of many allergic reactions
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+r i n k      
+o r a l      
+w a r e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+crow   : (4) black birds having a raucous call
+dude   : (4) an informal form of address for a man
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+rink   : (4) building that contains a surface for ice skating or roller skating
+thenar : (6) the fleshy area of the palm at the base of the thumb
+ware   : (4) articles of the same kind or material; usually used in combination: `silverware', `software'
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+r i n k      
+o r a l      
+p a r e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+crop   : (4) the yield from plants in a single growing season
+dude   : (4) an informal form of address for a man
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+pare   : (4) decrease gradually or bit by bit
+rink   : (4) building that contains a surface for ice skating or roller skating
+thenar : (6) the fleshy area of the palm at the base of the thumb
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+l i n k      
+o r a l      
+d a l e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+clod   : (4) a compact mass
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+dale   : (4) an open river valley (in a hilly area)
+dude   : (4) an informal form of address for a man
+link   : (4) the means of connection between things linked in series
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+thenal : (6) of or relating to the palm of the hand or to the area at the base of the thumb
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+l i n k      
+o r a l      
+y a l e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+cloy   : (4) supply or feed to surfeit
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+dude   : (4) an informal form of address for a man
+link   : (4) the means of connection between things linked in series
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+thenal : (6) of or relating to the palm of the hand or to the area at the base of the thumb
+yale   : (4) a university in Connecticut
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+l i n k      
+o r a l      
+g a l e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+clog   : (4) footwear usually with wooden soles
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+dude   : (4) an informal form of address for a man
+gale   : (4) a strong wind moving 45-90 knots; force 7 to 10 on Beaufort scale
+link   : (4) the means of connection between things linked in series
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+thenal : (6) of or relating to the palm of the hand or to the area at the base of the thumb
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+l i n k      
+o r a l      
+p a l e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+clop   : (4) the sound of a horse's hoofs hitting on a hard surface
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+dude   : (4) an informal form of address for a man
+link   : (4) the means of connection between things linked in series
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+pale   : (4) a wooden strip forming part of a fence
+thenal : (6) of or relating to the palm of the hand or to the area at the base of the thumb
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+l i n k      
+o r a l      
+t a l e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+clot   : (4) a lump of material formed from the content of a liquid
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+dude   : (4) an informal form of address for a man
+link   : (4) the means of connection between things linked in series
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+tale   : (4) a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program
+thenal : (6) of or relating to the palm of the hand or to the area at the base of the thumb
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+l i n k      
+o r a l      
+t a r e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+clot   : (4) a lump of material formed from the content of a liquid
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+dude   : (4) an informal form of address for a man
+link   : (4) the means of connection between things linked in series
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+tare   : (4) an adjustment made for the weight of the packaging in order to determine the net weight of the goods
+thenar : (6) the fleshy area of the palm at the base of the thumb
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+l i n k      
+o r a l      
+p a r e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+clop   : (4) the sound of a horse's hoofs hitting on a hard surface
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+dude   : (4) an informal form of address for a man
+link   : (4) the means of connection between things linked in series
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+pare   : (4) decrease gradually or bit by bit
+thenar : (6) the fleshy area of the palm at the base of the thumb
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+l i n k      
+o r a l      
+d a r e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+clod   : (4) a compact mass
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+dare   : (4) a challenge to do something dangerous or foolhardy
+dude   : (4) an informal form of address for a man
+link   : (4) the means of connection between things linked in series
+oink   : (4) the short low gruff noise of the kind made by hogs
+oral   : (4) an examination conducted by spoken communication
+thenar : (6) the fleshy area of the palm at the base of the thumb
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+c h e c k e r
+r i s k      
+a r i l      
+b a s e      
+--------------
+achira : (6) canna grown especially for its edible rootstock from which arrowroot starch is obtained
+aril   : (4) fleshy and usually brightly colored cover of some seeds that develops from the ovule stalk and partially or entirely envelopes the seed
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+base   : (4) installation from which a military force initiates operations
+chandi : (6) malevolent aspect of Devi
+checker: (7) an attendant who checks coats or baggage
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crab   : (4) decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers
+crackle: (7) the sharp sound of snapping noises
+dude   : (4) an informal form of address for a man
+oink   : (4) the short low gruff noise of the kind made by hogs
+risk   : (4) a source of danger; a possibility of incurring loss or misfortune
+thesis : (6) an unproved statement put forward as a premise in an argument
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+s l i c k e r
+h a n k      
+i n g e      
+p t s d      
+--------------
+aclant : (6) a major strategic headquarters of NATO located in the United States; is under the authority of the North Atlantic Council
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+cracked: (7) become fractured; break or crack on the surface only
+dude   : (4) an informal form of address for a man
+hank   : (4) a coil of rope or wool or yarn
+inge   : (4) English prelate noted for his pessimistic sermons and articles (1860-1954)
+oink   : (4) the short low gruff noise of the kind made by hogs
+ptsd   : (4) an anxiety disorder associated with serious traumatic events and characterized by such symptoms as survivor guilt, reliving the trauma in dreams, numbness and lack of involvement with reality, or recurrent thoughts and images
+ship   : (4) a vessel that carries passengers or freight
+slicker: (7) a macintosh made from cotton fabric treated with oil and pigment to make it waterproof
+things : (6) any movable possession (especially articles of clothing)
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+s l i c k e r
+l a n k      
+i n g e      
+p t s d      
+--------------
+aclant : (6) a major strategic headquarters of NATO located in the United States; is under the authority of the North Atlantic Council
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+cracked: (7) become fractured; break or crack on the surface only
+dude   : (4) an informal form of address for a man
+inge   : (4) English prelate noted for his pessimistic sermons and articles (1860-1954)
+lank   : (4) long and thin and often limp
+oink   : (4) the short low gruff noise of the kind made by hogs
+ptsd   : (4) an anxiety disorder associated with serious traumatic events and characterized by such symptoms as survivor guilt, reliving the trauma in dreams, numbness and lack of involvement with reality, or recurrent thoughts and images
+slicker: (7) a macintosh made from cotton fabric treated with oil and pigment to make it waterproof
+slip   : (4) a socially awkward or tactless act
+things : (6) any movable possession (especially articles of clothing)
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+d o p e      
+e r u c a    
+c a l t r o p
+o l e a r i a
+      s i l l
+      i v e s
+      a e r y
+--------------
+aery   : (4) the lofty nest of a bird of prey (such as a hawk or eagle)
+arrive : (6) reach a destination; arrive by movement or progress
+caltrop: (7) tropical annual procumbent poisonous subshrub having fruit that splits into five spiny nutlets; serious pasture weed
+deco   : (4) a style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production
+dope   : (4) street names for marijuana
+ectasia: (7) dilatation or distension of a hollow organ
+eruca  : (5) annual to perennial herbs of the Mediterranean region
+ives   : (4) United States composer noted for his innovative use of polytonality (1874-1954)
+oiler  : (5) a worker who oils engines or machinery
+olearia: (7) large genus of Australian evergreen shrubs or small trees with large daisylike flowers
+oral   : (4) an examination conducted by spoken communication
+palsy  : (5) loss of the ability to move a body part
+pule   : (4) cry weakly or softly
+sill   : (4) structural member consisting of a continuous horizontal timber forming the lowest member of a framework or supporting structure
+--------------
+
+d o p e      
+e r u c a    
+c a l t r o p
+o l e a r i a
+      s i l t
+      i v e s
+      a e r y
+--------------
+aery   : (4) the lofty nest of a bird of prey (such as a hawk or eagle)
+arrive : (6) reach a destination; arrive by movement or progress
+caltrop: (7) tropical annual procumbent poisonous subshrub having fruit that splits into five spiny nutlets; serious pasture weed
+deco   : (4) a style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production
+dope   : (4) street names for marijuana
+ectasia: (7) dilatation or distension of a hollow organ
+eruca  : (5) annual to perennial herbs of the Mediterranean region
+ives   : (4) United States composer noted for his innovative use of polytonality (1874-1954)
+oiler  : (5) a worker who oils engines or machinery
+olearia: (7) large genus of Australian evergreen shrubs or small trees with large daisylike flowers
+oral   : (4) an examination conducted by spoken communication
+patsy  : (5) a person who is gullible and easy to take advantage of
+pule   : (4) cry weakly or softly
+silt   : (4) mud or clay or small rocks deposited by a river or lake
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+s t i c k e r
+g u n k      
+m a l e      
+l l y r      
+--------------
+actual : (6) presently existing in fact and not merely potential or possible
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+cracker: (7) a thin crisp wafer made of flour and water with or without leavening and shortening; unsweetened or semisweet
+dude   : (4) an informal form of address for a man
+gunk   : (4) any thick, viscous matter
+llyr   : (4) Celtic deity who was the father of Manawydan; corresponds to Irish Lir
+male   : (4) an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)
+oink   : (4) the short low gruff noise of the kind made by hogs
+sgml   : (4) (computer science) a standardized language for the descriptive markup of documents; a set of rules for using whatever markup vocabulary is adopted
+sticker: (7) a small sharp-pointed tip resembling a spike on a stem or leaf
+thinly : (6) without force or sincere effort
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+    e i b i t
+    m a o r i
+  h a p t i c
+d o n e t s k
+e r a t o    
+a n t u m    
+l e e s      
+--------------
+antum  : (5) Babylonian consort of Anu
+bottom : (6) the lower side of anything
+deal   : (4) a particular instance of buying or selling
+donetsk: (7) an industrial city in the Donets Basin
+eibit  : (5) a unit of information equal to 1024 pebibits or 2^60 bits
+emanate: (7) proceed or issue forth, as from a source
+erato  : (5) (Greek mythology) the Muse of lyric and love poetry
+haptic : (6) of or relating to or proceeding from the sense of touch
+horne  : (5) United States operatic mezzo-soprano (born 1934)
+iapetus: (7) (Greek mythology) the Titan who was father of Atlas and Epimetheus and Prometheus in ancient mythology
+iris   : (4) plants with sword-shaped leaves and erect stalks bearing bright-colored flowers composed of three petals and three drooping sepals
+lees   : (4) the sediment from fermentation of an alcoholic beverage
+maori  : (5) an ethnic minority of Polynesian and Melanesian descent who speak Maori and live in New Zealand
+tick   : (4) a metallic tapping sound
+--------------
+
+d o p e      
+e r u c a    
+c a t t e l l
+o n t a r i o
+      s o m a
+      i b i s
+      s e t a
+--------------
+aerobe : (6) an organism (especially a bacterium) that requires air or free oxygen for life
+cattell: (7) American psychologist (born in England) who developed a broad theory of human behavior based on multivariate research (1905-1998)
+deco   : (4) a style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production
+dope   : (4) street names for marijuana
+ectasis: (7) dilatation or distension of a hollow organ
+eruca  : (5) annual to perennial herbs of the Mediterranean region
+ibis   : (4) wading birds of warm regions having long slender down-curved bills
+limit  : (5) the greatest possible degree of something
+loasa  : (5) any of various perennial South American plants of the genus Loasa having stinging hairs and showy white or yellow or reddish-orange flowers
+ontario: (7) the smallest of the Great Lakes
+oran   : (4) a port city in northwestern Algeria and the country's 2nd largest city
+putt   : (4) hitting a golf ball that is on the green using a putter
+seta   : (4) stalk of a moss capsule
+soma   : (4) leafless East Indian vine; its sour milky juice formerly used to make an intoxicating drink
+--------------
+
+d o p e      
+e r u c a    
+c a t t e l l
+o n t a r i o
+      s o n e
+      i b i s
+      s e n s
+--------------
+aerobe : (6) an organism (especially a bacterium) that requires air or free oxygen for life
+cattell: (7) American psychologist (born in England) who developed a broad theory of human behavior based on multivariate research (1905-1998)
+deco   : (4) a style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production
+dope   : (4) street names for marijuana
+ectasis: (7) dilatation or distension of a hollow organ
+eruca  : (5) annual to perennial herbs of the Mediterranean region
+ibis   : (4) wading birds of warm regions having long slender down-curved bills
+linin  : (5) an obsolete term for the network of viscous material in the cell nucleus on which the chromatin granules were thought to be suspended
+loess  : (5) a fine-grained unstratified accumulation of clay and silt deposited by the wind
+ontario: (7) the smallest of the Great Lakes
+oran   : (4) a port city in northwestern Algeria and the country's 2nd largest city
+putt   : (4) hitting a golf ball that is on the green using a putter
+sens   : (4) street names for marijuana
+sone   : (4) a unit of perceived loudness equal to the loudness of a 1000-hertz tone at 40 dB above threshold
+--------------
+
+d o p e      
+e r u c a    
+c a t t e l l
+o n t a r i o
+      s a g a
+      i t e m
+      a e r y
+--------------
+aerate : (6) expose to fresh air
+aery   : (4) the lofty nest of a bird of prey (such as a hawk or eagle)
+cattell: (7) American psychologist (born in England) who developed a broad theory of human behavior based on multivariate research (1905-1998)
+deco   : (4) a style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production
+dope   : (4) street names for marijuana
+ectasia: (7) dilatation or distension of a hollow organ
+eruca  : (5) annual to perennial herbs of the Mediterranean region
+item   : (4) a distinct part that can be specified separately in a group of things that could be enumerated on a list
+liger  : (5) offspring of a male lion and a female tiger
+loamy  : (5) consisting of or having the character of loam
+ontario: (7) the smallest of the Great Lakes
+oran   : (4) a port city in northwestern Algeria and the country's 2nd largest city
+putt   : (4) hitting a golf ball that is on the green using a putter
+saga   : (4) a narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families that settled Iceland and their descendants but now any prose narrative that resembles such an account
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+f l i c k e r
+l a n k      
+i n g e      
+p t s d      
+--------------
+aclant : (6) a major strategic headquarters of NATO located in the United States; is under the authority of the North Atlantic Council
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+cracked: (7) become fractured; break or crack on the surface only
+dude   : (4) an informal form of address for a man
+flicker: (7) a momentary flash of light
+flip   : (4) an acrobatic feat in which the feet roll over the head (either forward or backward) and return
+inge   : (4) English prelate noted for his pessimistic sermons and articles (1860-1954)
+lank   : (4) long and thin and often limp
+oink   : (4) the short low gruff noise of the kind made by hogs
+ptsd   : (4) an anxiety disorder associated with serious traumatic events and characterized by such symptoms as survivor guilt, reliving the trauma in dreams, numbness and lack of involvement with reality, or recurrent thoughts and images
+things : (6) any movable possession (especially articles of clothing)
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+d o p e      
+e r u c a    
+c a t t e l l
+o n t a r i o
+      s a n a
+      i t e m
+      a e r y
+--------------
+aerate : (6) expose to fresh air
+aery   : (4) the lofty nest of a bird of prey (such as a hawk or eagle)
+cattell: (7) American psychologist (born in England) who developed a broad theory of human behavior based on multivariate research (1905-1998)
+deco   : (4) a style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production
+dope   : (4) street names for marijuana
+ectasia: (7) dilatation or distension of a hollow organ
+eruca  : (5) annual to perennial herbs of the Mediterranean region
+item   : (4) a distinct part that can be specified separately in a group of things that could be enumerated on a list
+liner  : (5) (baseball) a hit that flies straight out from the batter
+loamy  : (5) consisting of or having the character of loam
+ontario: (7) the smallest of the Great Lakes
+oran   : (4) a port city in northwestern Algeria and the country's 2nd largest city
+putt   : (4) hitting a golf ball that is on the green using a putter
+sana   : (4) the capital and largest city of Yemen; on the central plateau
+--------------
+
+      c o d y
+  a t r i u m
+  c h a n d i
+s t a c k e r
+s a l k      
+p e e l      
+e a s e      
+--------------
+actaea : (6) baneberry
+atrium : (6) any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)
+chandi : (6) malevolent aspect of Devi
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+crackle: (7) the sharp sound of snapping noises
+dude   : (4) an informal form of address for a man
+ease   : (4) freedom from difficulty or hardship or effort
+oink   : (4) the short low gruff noise of the kind made by hogs
+peel   : (4) British politician (1788-1850)
+salk   : (4) United States virologist who developed the Salk vaccine that is injected against poliomyelitis (born 1914)
+sspe   : (4) a rare chronic progressive encephalitis caused by the measles virus and occurring primarily in children and young adults; death usually occurs within three years; characterized by primary measles infection before the age of two years
+stacker: (7) a laborer who builds up a stack or pile
+thales : (6) a presocratic Greek philosopher and astronomer (who predicted an eclipse in 585 BC) who was said by Aristotle to be the founder of physical science; he held that all things originated in water (624-546 BC)
+ymir   : (4) (Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull
+--------------
+
+d o p e      
+e r u c a    
+n e t t l e  
+t o t a l e d
+      s u r e
+      i r i s
+      s e e k
+--------------
+allure : (6) the power to entice or attract through personal charm
+dent   : (4) an appreciable consequence (especially a lessening)
+desk   : (4) a piece of furniture with a writing surface and usually drawers or other compartments
+dope   : (4) street names for marijuana
+ectasis: (7) dilatation or distension of a hollow organ
+eerie  : (5) suggestive of the supernatural; mysterious
+eruca  : (5) annual to perennial herbs of the Mediterranean region
+iris   : (4) plants with sword-shaped leaves and erect stalks bearing bright-colored flowers composed of three petals and three drooping sepals
+nettle : (6) any of numerous plants having stinging hairs that cause skin irritation on contact (especially of the genus Urtica or family Urticaceae)
+oreo   : (4) chocolate cookie with white cream filling
+putt   : (4) hitting a golf ball that is on the green using a putter
+seek   : (4) the movement of a read/write head to a specific data track on a disk
+sure   : (4) having or feeling no doubt or uncertainty; confident and assured
+totaled: (7) add up in number or quantity
+--------------
+
+      c o d y
+    c a p r i
+  l i n e u p
+s a v i n g s
+i m i d e    
+s n e a d    
+e a s e      
+--------------
+canidae: (7) dogs; wolves; jackals; foxes
+capri  : (5) an island (part of Campania) in the Bay of Naples in southern Italy; a tourist attraction noted for beautiful scenery
+civies : (6) civilian garb as opposed to a military uniform
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+drug   : (4) a substance that is used as a medicine or narcotic
+ease   : (4) freedom from difficulty or hardship or effort
+imide  : (5) any of a class of organic compounds that contain the divalent radical -CONHCO-
+lamna  : (5) a genus of Lamnidae
+lineup : (6) (baseball) a list of batters in the order in which they will bat
+opened : (6) cause to open or to become open
+savings: (7) a fund of money put by as a reserve
+sise   : (4) the cardinal number that is the sum of five and one
+snead  : (5) United States golfer known for the graceful arc of his swing (1912-2002)
+yips   : (4) nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)
+--------------
+
+      c o d y
+    c a p r i
+  l i n e u p
+s a v i n g s
+i m i d e    
+n i c a d    
+e a s e      
+--------------
+canidae: (7) dogs; wolves; jackals; foxes
+capri  : (5) an island (part of Campania) in the Bay of Naples in southern Italy; a tourist attraction noted for beautiful scenery
+civics : (6) the social science of municipal affairs
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+drug   : (4) a substance that is used as a medicine or narcotic
+ease   : (4) freedom from difficulty or hardship or effort
+imide  : (5) any of a class of organic compounds that contain the divalent radical -CONHCO-
+lamia  : (5) (folklore) a corpse that rises at night to drink the blood of the living
+lineup : (6) (baseball) a list of batters in the order in which they will bat
+nicad  : (5) a rechargeable battery with a nickel cathode and a cadmium anode; often used in emergency systems because of its low discharge rate when not in use
+opened : (6) cause to open or to become open
+savings: (7) a fund of money put by as a reserve
+sine   : (4) ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle
+yips   : (4) nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)
+--------------
+
+      c o d y
+    c a p r i
+  l i n e u p
+s a v i n g s
+a m i d e    
+v i c a r    
+e a s e      
+--------------
+amide  : (5) any organic compound containing the group -CONH2
+canidae: (7) dogs; wolves; jackals; foxes
+capri  : (5) an island (part of Campania) in the Bay of Naples in southern Italy; a tourist attraction noted for beautiful scenery
+civics : (6) the social science of municipal affairs
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+drug   : (4) a substance that is used as a medicine or narcotic
+ease   : (4) freedom from difficulty or hardship or effort
+lamia  : (5) (folklore) a corpse that rises at night to drink the blood of the living
+lineup : (6) (baseball) a list of batters in the order in which they will bat
+opener : (6) the first event in a series
+save   : (4) (sports) the act of preventing the opposition from scoring
+savings: (7) a fund of money put by as a reserve
+vicar  : (5) a Roman Catholic priest who acts for another higher-ranking clergyman
+yips   : (4) nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)
+--------------
+
+      c o d y
+    c a p r i
+  l i n e u p
+s a v i n g s
+a m i d e    
+n i c a d    
+e a s e      
+--------------
+amide  : (5) any organic compound containing the group -CONH2
+canidae: (7) dogs; wolves; jackals; foxes
+capri  : (5) an island (part of Campania) in the Bay of Naples in southern Italy; a tourist attraction noted for beautiful scenery
+civics : (6) the social science of municipal affairs
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+drug   : (4) a substance that is used as a medicine or narcotic
+ease   : (4) freedom from difficulty or hardship or effort
+lamia  : (5) (folklore) a corpse that rises at night to drink the blood of the living
+lineup : (6) (baseball) a list of batters in the order in which they will bat
+nicad  : (5) a rechargeable battery with a nickel cathode and a cadmium anode; often used in emergency systems because of its low discharge rate when not in use
+opened : (6) cause to open or to become open
+sane   : (4) mentally healthy; free from mental disorder
+savings: (7) a fund of money put by as a reserve
+yips   : (4) nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)
+--------------
+
+      c o d y
+    c a p r i
+  l i n e u p
+s a v i n g s
+a m i d e    
+k n e a d    
+e a s e      
+--------------
+amide  : (5) any organic compound containing the group -CONH2
+canidae: (7) dogs; wolves; jackals; foxes
+capri  : (5) an island (part of Campania) in the Bay of Naples in southern Italy; a tourist attraction noted for beautiful scenery
+civies : (6) civilian garb as opposed to a military uniform
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+drug   : (4) a substance that is used as a medicine or narcotic
+ease   : (4) freedom from difficulty or hardship or effort
+knead  : (5) make uniform
+lamna  : (5) a genus of Lamnidae
+lineup : (6) (baseball) a list of batters in the order in which they will bat
+opened : (6) cause to open or to become open
+sake   : (4) a reason for wanting something done
+savings: (7) a fund of money put by as a reserve
+yips   : (4) nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)
+--------------
+
+      c o d y
+    c a p r i
+  l i n e u p
+s a v i n g s
+e n i d      
+a s e a      
+r a s e      
+--------------
+asea   : (4) in the direction of the sea
+canidae: (7) dogs; wolves; jackals; foxes
+capri  : (5) an island (part of Campania) in the Bay of Naples in southern Italy; a tourist attraction noted for beautiful scenery
+civies : (6) civilian garb as opposed to a military uniform
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+drug   : (4) a substance that is used as a medicine or narcotic
+enid   : (4) a town in north central Oklahoma
+lansa  : (5) East Indian tart yellow berrylike fruit
+lineup : (6) (baseball) a list of batters in the order in which they will bat
+open   : (4) a clear or unobstructed space or expanse of land or water
+rase   : (4) tear down so as to make flat with the ground
+savings: (7) a fund of money put by as a reserve
+sear   : (4) make very hot and dry
+yips   : (4) nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)
+--------------
+
+      c o d y
+    c a p r i
+  l i n e u p
+s a v i n g s
+a z i d e    
+n i c a d    
+d o s e      
+--------------
+azide  : (5) a chemical compound containing the azido group combined with an element or radical
+canidae: (7) dogs; wolves; jackals; foxes
+capri  : (5) an island (part of Campania) in the Bay of Naples in southern Italy; a tourist attraction noted for beautiful scenery
+civics : (6) the social science of municipal affairs
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+dose   : (4) a measured portion of medicine taken at any one time
+drug   : (4) a substance that is used as a medicine or narcotic
+lazio  : (5) an ancient region of west central Italy (southeast of Rome) on the Tyrrhenian Sea
+lineup : (6) (baseball) a list of batters in the order in which they will bat
+nicad  : (5) a rechargeable battery with a nickel cathode and a cadmium anode; often used in emergency systems because of its low discharge rate when not in use
+opened : (6) cause to open or to become open
+sand   : (4) a loose material consisting of grains of rock or coral
+savings: (7) a fund of money put by as a reserve
+yips   : (4) nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)
+--------------
+
+      c o d y
+    c a p r i
+  l i n e u p
+l i a t r i s
+u n r e a d  
+r e d e      
+e r i n      
+--------------
+canteen: (7) a flask for carrying water; used by soldiers or travelers
+capri  : (5) an island (part of Campania) in the Bay of Naples in southern Italy; a tourist attraction noted for beautiful scenery
+ciardi : (6) United States poet and critic (1916-1986)
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+druid  : (5) a pre-Christian priest among the Celts of ancient Gaul and Britain and Ireland
+erin   : (4) an early name of Ireland that is now used in poetry
+liatris: (7) genus of perennial North American herbs with aromatic usually cormous roots
+liner  : (5) (baseball) a hit that flies straight out from the batter
+lineup : (6) (baseball) a list of batters in the order in which they will bat
+lure   : (4) qualities that attract by seeming to promise some kind of reward
+opera  : (5) a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes
+rede   : (4) give an interpretation or explanation to
+unread : (6) not informed through reading; - V.L.Parrington
+yips   : (4) nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)
+--------------
+
+      c o d y
+    c a p r i
+  l i n e u p
+l i a t r i s
+u n r e a d  
+c e d e      
+e r i n      
+--------------
+canteen: (7) a flask for carrying water; used by soldiers or travelers
+capri  : (5) an island (part of Campania) in the Bay of Naples in southern Italy; a tourist attraction noted for beautiful scenery
+cede   : (4) give over; surrender or relinquish to the physical control of another
+ciardi : (6) United States poet and critic (1916-1986)
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+druid  : (5) a pre-Christian priest among the Celts of ancient Gaul and Britain and Ireland
+erin   : (4) an early name of Ireland that is now used in poetry
+liatris: (7) genus of perennial North American herbs with aromatic usually cormous roots
+liner  : (5) (baseball) a hit that flies straight out from the batter
+lineup : (6) (baseball) a list of batters in the order in which they will bat
+luce   : (4) United States publisher of magazines (1898-1967)
+opera  : (5) a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes
+unread : (6) not informed through reading; - V.L.Parrington
+yips   : (4) nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)
+--------------
+
+      c o d y
+    c a p r i
+  l i n e u p
+l i a t r i s
+u n r e a d  
+b e d e      
+e r i n      
+--------------
+bede   : (4) (Roman Catholic Church) English monk and scholar (672-735)
+canteen: (7) a flask for carrying water; used by soldiers or travelers
+capri  : (5) an island (part of Campania) in the Bay of Naples in southern Italy; a tourist attraction noted for beautiful scenery
+ciardi : (6) United States poet and critic (1916-1986)
+cody   : (4) United States showman famous for his Wild West Show (1846-1917)
+druid  : (5) a pre-Christian priest among the Celts of ancient Gaul and Britain and Ireland
+erin   : (4) an early name of Ireland that is now used in poetry
+liatris: (7) genus of perennial North American herbs with aromatic usually cormous roots
+liner  : (5) (baseball) a hit that flies straight out from the batter
+lineup : (6) (baseball) a list of batters in the order in which they will bat
+lube   : (4) a substance capable of reducing friction by making surfaces smooth or slippery
+opera  : (5) a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes
+unread : (6) not informed through reading; - V.L.Parrington
+yips   : (4) nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)
+--------------
+
+5 - 7 letters from nltk (37,631)
+
+5 - 7 letters from nltk (37,631)
+
+5 - 7 letters from nltk (39,464)
+
+5 - 7 letters from nltk (39,464 SQUARE=False R=True)
+
+5 - 7 letters from nltk (39,464 SQUARE=False R=True)
+writing to results/output-7.txt
+5 - 7 letters from nltk (39,464 SQUARE=False R=True)
+writing to results/output-7.txt
+5 - 7 letters from nltk (39,464 SQUARE=False R=True)
+writing to results/output-7.txt
+5 - 7 letters from nltk (39,464 SQUARE=False R=True)
+writing to results/output-7.txt
+5 - 7 letters from nltk (39,464 SQUARE=False R=False)
+
+5 - 7 letters from nltk (39,464 SQUARE=False R=False)
