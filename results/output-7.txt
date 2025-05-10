@@ -14,3 +14,21 @@
 7 letters from nltk (58,642)
 
 7 letters from words.txt (126,903)
+
+7 letters from words.txt (170,809)
+
+7 letters from nltk (78,586)
+
+7 letters from words.txt (170,809)
+
+7 letters from nltk (37,631)
+
+7 letters from nltk (37,631)
+
+7 letters from nltk (37,631)
+
+7 letters from nltk (37,631)
+
+7 letters from nltk (37,631)
+
+7 letters from nltk (37,631)
