@@ -24,7 +24,7 @@ def define_word(word):
 
     # Just get the first synset (most common meaning)
     definition = synsets[0].definition()
-    return f"{word} (noun/verb/etc): {definition}"
+    return definition
 
 def get_wordnet_defined_words():
     return set(wn.all_lemma_names())
@@ -86,13 +86,17 @@ def build_square(start_word, word_list, prefix_dict, N):
             with open(f"results/output-{N}.txt", "a") as output:
                 output.write(f"\n{results}\n")
                 output.write(f"{'-' * 2*N}\n")
+                questions = []
                 for word in square:
-                    output.write(f"{word.strip().ljust(N)} : {define_word(word.strip())}\n")
-                    print(define_word(word.strip()))
+                    questions.append((word.strip(), define_word(word.strip())))
                 cols = ["".join(row[i] for row in square) for i in range(N)]
                 for word in cols:
-                    output.write(f"{word.strip().ljust(N)} : {define_word(word.strip())}\n")
-                    print(define_word(word.strip()))
+                    questions.append((word.strip(), define_word(word.strip())))
+                questions.sort(key=lambda x: x[0])
+                for question in questions:
+                    output.write(f"{question[0].strip().ljust(N)}: ({len(question[0])}) {question[1]}\n")
+                output.write(f"{'-' * 2*N}\n")
+
             return
 
         for candidate in word_list:
@@ -163,7 +167,7 @@ if __name__ == "__main__":
         word_list = set(
             word.strip().lower()
             for word in defined_words
-            if len(word.strip()) in [N, N-1, N-2] and word.strip().isalpha()
+            if len(word.strip()) in [N, N-1, N-2, N-3] and word.strip().isalpha()
         )
         WORDFILE = "nltk"
 
