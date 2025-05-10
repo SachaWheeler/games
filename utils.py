@@ -85,7 +85,7 @@ def is_valid_prefix(square, row, N, R, prefix_dict):
         if col_prefix not in prefix_dict:
             return False
 
-        # Disallow exact row == column match (symmetry breaker)
+        # Disallow exact row == column match (symmetry breaker) unless resusing (R)
         if not R and row + 1 == N:
             col_word = "".join(square[i][col] for i in range(N))
             if col_word in square:

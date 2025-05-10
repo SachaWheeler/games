@@ -958,3 +958,5 @@ writing to results/output-7.txt
 5 - 7 letters from nltk (39,464 SQUARE=False R=False)
 
 5 - 7 letters from nltk (39,464 SQUARE=False R=False)
+
+5 - 7 letters from nltk (39,464 SQUARE=False R=True)

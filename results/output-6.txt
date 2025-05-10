@@ -17090,3 +17090,362 @@ needle: (6) the leaf of a conifer
 senior: (6) an undergraduate student during the year preceding graduation
 teresa: (6) Indian nun and missionary in the Roman Catholic Church (born of Albanian parents in what is now Macedonia); dedicated to helping the poor in India (1910-1997)
 ------------
+
+4 - 6 letters from nltk (26,048 SQUARE=False R=False)
+
+n o t e    
+a o u d a d
+s t r i v e
+a i g r e t
+  d o n n e
+    r e a r
+------------
+aigret: (6) a long plume (especially one of egret feathers) worn on a hat or a piece of jewelry in the shape of a plume
+aoudad: (6) wild sheep of northern Africa
+avena : (5) oats
+deter : (5) try to prevent; show opposition to
+donne : (5) English clergyman and metaphysical poet celebrated as a preacher (1572-1631)
+edirne: (6) a city in northwestern Turkey; a Thracian town that was rebuilt and renamed by the Roman Emperor Hadrian
+nasa  : (4) an independent agency of the United States government responsible for aviation and spaceflight
+note  : (4) a brief written record
+ootid : (5) mature ovum after penetration by sperm but before the formation of a zygote
+rear  : (4) the back of a military formation or procession
+strive: (6) attempt by employing effort
+turgor: (6) (biology) the normal rigid state of fullness of a cell or blood vessel or capillary resulting from pressure of the contents against the wall or membrane
+------------
+
+n o t e    
+a o u d a d
+s t r i v e
+a i g r e t
+  d o n n e
+    t e a r
+------------
+aigret: (6) a long plume (especially one of egret feathers) worn on a hat or a piece of jewelry in the shape of a plume
+aoudad: (6) wild sheep of northern Africa
+avena : (5) oats
+deter : (5) try to prevent; show opposition to
+donne : (5) English clergyman and metaphysical poet celebrated as a preacher (1572-1631)
+edirne: (6) a city in northwestern Turkey; a Thracian town that was rebuilt and renamed by the Roman Emperor Hadrian
+nasa  : (4) an independent agency of the United States government responsible for aviation and spaceflight
+note  : (4) a brief written record
+ootid : (5) mature ovum after penetration by sperm but before the formation of a zygote
+strive: (6) attempt by employing effort
+tear  : (4) a drop of the clear salty saline solution secreted by the lacrimal glands
+turgot: (6) French economist who in 1774 was put in control of finances by Louis XVI; his proposals for reforms that involved abolishing feudal privileges made him unpopular with the aristocracy and in 1776 he was dismissed (1727-1781)
+------------
+
+f r i g g a
+r e s e l l
+a g o n a l
+p a p e r y
+p r o v e  
+e d d a    
+------------
+agonal: (6) pertaining to or associated with agony (especially death agonies)
+ally  : (4) a friendly nation
+edda  : (4) tropical starchy tuberous root
+frappe: (6) liqueur poured over shaved ice
+frigga: (6) (Norse mythology) goddess of the heavens and married love; wife of Odin
+geneva: (6) a city in southwestern Switzerland at the western end of Lake Geneva; it is the headquarters of various international organizations
+glare : (5) a light within the field of vision that is brighter than the brightness to which the eyes are adapted
+isopod: (6) any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling
+papery: (6) thin and paperlike
+prove : (5) be shown or be found to be
+regard: (6) (usually preceded by `in') a detail or point
+resell: (6) sell (something) again after having bought it
+------------
+
+l o g o    
+e n a t i c
+d o r a d o
+a n u r i a
+  i d i o t
+  s a a m i
+------------
+anuria: (6) inability to urinate
+coati : (5) omnivorous mammal of Central America and South America
+dorado: (6) a constellation in the southern hemisphere near Reticulum and Pictor; contains most of the Large Magellanic Cloud
+enatic: (6) related on the mother's side
+garuda: (6) a supernatural eagle-like being that serves as Vishnu's mount
+idiom : (5) a manner of speaking that is natural to native speakers of a language
+idiot : (5) a person of subnormal intelligence
+leda  : (4) (Greek mythology) a queen of Sparta who was raped by Zeus who had taken the form of a swan; Helen of Troy was conceived in the rape of Leda
+logo  : (4) a company emblem or device
+ononis: (6) genus of European subshrubs or herbs having pink or purple or yellow solitary or clustered flowers: restharrow
+otaria: (6) type genus of the Otariidae
+saami : (5) a member of an indigenous nomadic people living in northern Scandinavia and herding reindeer
+------------
+
+f r i g g a
+r e s e l l
+a t o n a l
+p a p e r y
+p r o v e  
+e d d a    
+------------
+ally  : (4) a friendly nation
+atonal: (6) characterized by avoidance of traditional western tonality
+edda  : (4) tropical starchy tuberous root
+frappe: (6) liqueur poured over shaved ice
+frigga: (6) (Norse mythology) goddess of the heavens and married love; wife of Odin
+geneva: (6) a city in southwestern Switzerland at the western end of Lake Geneva; it is the headquarters of various international organizations
+glare : (5) a light within the field of vision that is brighter than the brightness to which the eyes are adapted
+isopod: (6) any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling
+papery: (6) thin and paperlike
+prove : (5) be shown or be found to be
+resell: (6) sell (something) again after having bought it
+retard: (6) a person of subnormal intelligence
+------------
+
+  j o l t y
+f a c i a l
+e l u a t e
+l o l i u m
+o p u s    
+n y s e    
+------------
+eluate: (6) a liquid solution that results from elution
+facial: (6) cranial nerve that supplies facial muscles
+felon : (5) someone who has committed a crime or has been legally convicted of a crime
+jalopy: (6) a car that is old and unreliable
+jolty : (5) causing or characterized by jolts and irregular movements
+liaise: (6) act between parties with a view to reconciling differences
+lolium: (6) darnel; ryegrass
+nyse  : (4) a stock exchange in New York
+oculus: (6) the organ of sight
+opus  : (4) a musical work that has been created
+tatu  : (4) about three feet long exclusive of tail
+ylem  : (4) (cosmology) the original matter that (according to the big bang theory) existed before the formation of the chemical elements
+------------
+
+    d a s h
+  n i f t y
+s a c r a l
+a n k a r a
+x c i i    
+e y e d    
+------------
+afraid: (6) filled with fear or apprehension
+ankara: (6) the capital of Turkey; located in west-central Turkey; it was formerly known as Angora and is the home of Angora goats
+dash  : (4) distinctive and stylish elegance
+dickie: (6) a small third seat in the back of an old-fashioned two-seater
+eyed  : (4) look at
+hyla  : (4) the type genus of the Hylidae; tree toads
+nancy : (5) a city in northeastern France in Lorraine
+nifty : (5) very good
+sacral: (6) of or relating to or near the sacrum
+saxe  : (4) a French marshal who distinguished himself in the War of the Austrian Succession (1696-1750)
+star  : (4) (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior
+xcii  : (4) being two more than ninety
+------------
+
+    d a s h
+  n i f t y
+s a c r a l
+a t t i c a
+s t u c k  
+h a m a s  
+------------
+africa: (6) the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean
+attica: (6) the territory of Athens in ancient Greece where the Ionic dialect was spoken
+dash  : (4) distinctive and stylish elegance
+dictum: (6) an authoritative declaration
+hamas : (5) a militant Islamic fundamentalist political movement that opposes peace with Israel and uses terrorism as a weapon; seeks to create an Islamic state in place of Israel; is opposed to the PLO and has become a leading perpetrator of terrorist activity in Israel; pioneered suicide bombing
+hyla  : (4) the type genus of the Hylidae; tree toads
+natta : (5) Italian chemist noted for work on polymers (1903-1979)
+nifty : (5) very good
+sacral: (6) of or relating to or near the sacrum
+sash  : (4) a framework that holds the panes of a window in the window frame
+stacks: (6) a large number or amount
+stuck : (5) put, fix, force, or implant
+------------
+
+    d a s h
+  n i f t y
+s a c r a l
+i n t i m a
+s a u c e  
+e k m a n  
+------------
+africa: (6) the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean
+dash  : (4) distinctive and stylish elegance
+dictum: (6) an authoritative declaration
+ekman : (5) Swedish oceanographer who recognized the role of the Coriolis effect on ocean currents (1874-1954)
+hyla  : (4) the type genus of the Hylidae; tree toads
+intima: (6) the innermost membrane of an organ (especially the inner lining of an artery or vein or lymphatic vessel)
+nanak : (5) Indian religious leader who founded Sikhism in dissent from the caste system of Hinduism; he taught that all men had a right to search for knowledge of God and that spiritual liberation could be attained by meditating on the name of God (1469-1538)
+nifty : (5) very good
+sacral: (6) of or relating to or near the sacrum
+sauce : (5) flavorful relish or dressing or topping served as an accompaniment to food
+sise  : (4) the cardinal number that is the sum of five and one
+stamen: (6) the male reproductive organ of a flower
+------------
+
+  e n e t s
+  t o d e a
+s h r i l l
+w a m b l e
+a n a l    
+g e n e    
+------------
+anal  : (4) of or related to the anus
+edible: (6) any substance that can be used as food
+enets : (5) the Uralic language spoken by the Yeniseian
+ethane: (6) a colorless odorless alkane gas used as fuel
+gene  : (4) (genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity
+norman: (6) United States operatic soprano (born in 1945)
+sale  : (4) a particular instance of selling
+shrill: (6) utter a shrill cry
+swag  : (4) valuable goods
+tell  : (4) a Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer; according to legend an Austrian governor compelled him to shoot an apple from his son's head with his crossbow (which he did successfully without mishap)
+todea : (5) a genus of delicate ferns belonging to the family Osmundaceae
+wamble: (6) move unsteadily or with a weaving or rolling motion
+------------
+
+l o g o    
+e n a t i c
+t u r a c o
+o s i r i s
+    s i l t
+    h a y s
+------------
+costs : (5) pecuniary reimbursement to the winning party for the expenses of litigation
+enatic: (6) related on the mother's side
+garish: (6) tastelessly showy
+hays  : (4) United States lawyer and politician who formulated a production code that prescribed the moral content of United States films from 1930 to 1966 (1879-1954)
+icily : (5) in a cold and icy manner
+leto  : (4) wife or mistress of Zeus and mother of Apollo and Artemis in ancient mythology; called Latona in Roman mythology
+logo  : (4) a company emblem or device
+onus  : (4) an onerous or difficult concern
+osiris: (6) Egyptian god of the underworld and judge of the dead; husband and brother of Isis; father of Horus
+otaria: (6) type genus of the Otariidae
+silt  : (4) mud or clay or small rocks deposited by a river or lake
+turaco: (6) large brightly crested bird of Africa
+------------
+
+    d a s h
+  n i f t y
+p o s t a l
+o r t e g a
+e m i r    
+m a l s    
+------------
+afters: (6) a dish served as the last course of a meal
+dash  : (4) distinctive and stylish elegance
+distil: (6) undergo condensation; change from a gaseous to a liquid state and fall in drops
+emir  : (4) an independent ruler or chieftain (especially in Africa or Arabia)
+hyla  : (4) the type genus of the Hylidae; tree toads
+mals  : (4) a master's degree in library science
+nifty : (5) very good
+norma : (5) a small constellation in the southern hemisphere near Lupus and Ara in the Milky Way
+ortega: (6) Nicaraguan statesman (born in 1945)
+poem  : (4) a composition written in metrical feet forming rhythmical lines
+postal: (6) of or relating to the system for delivering mail
+stag  : (4) a male deer, especially an adult male red deer
+------------
+
+r e v i e w
+a l i s m a
+s u n l i t
+c a s a l s
+a t o n e  
+l e n d    
+------------
+alisma: (6) small genus of aquatic or semiaquatic plants
+atone : (5) make amends for
+casals: (6) an outstanding Spanish cellist noted for his interpretation of Bach's cello suites (1876-1973)
+eluate: (6) a liquid solution that results from elution
+emile : (5) the boy whose upbringing was described by Jean-Jacques Rousseau
+island: (6) a land mass (smaller than a continent) that is surrounded by water
+lend  : (4) bestow a quality on
+rascal: (6) a deceitful and unreliable scoundrel
+review: (6) a new appraisal or evaluation
+sunlit: (6) lighted by sunlight; ; - Wallace Stegner
+vinson: (6) United States jurist who served as chief justice of the Supreme Court (1890-1953)
+wats  : (4) a telephone line;long distance service at fixed rates for fixed zones; an acronym for wide area telephone service
+------------
+
+n a h u m  
+a g a m a  
+p i m p l e
+e o l i a n
+    e r g o
+    t e a l
+------------
+agama : (5) small terrestrial lizard of warm regions of the Old World
+agio  : (4) a fee charged for exchanging currencies
+enol  : (4) an organic compound that contains a hydroxyl group bonded to a carbon atom which in turn is doubly bonded to another carbon atom
+eolian: (6) a member of one of four linguistic divisions of the prehistoric Greeks
+ergo  : (4) (used as a sentence connector) therefore or consequently
+hamlet: (6) a community of people smaller than a village
+malaga: (6) a port city and resort in Andalusia in southern Spain on the Mediterranean
+nahum : (5) a Hebrew minor prophet of the 7th century BC
+nape  : (4) the back side of the neck
+pimple: (6) a small inflamed elevation of the skin; a pustule or papule; common symptom in acne
+teal  : (4) a blue-green color or pigment
+umpire: (6) an official at a baseball game
+------------
+
+    d a s h
+  n i f t y
+f o e t a l
+o r t e g a
+t i e r    
+s a r s    
+------------
+afters: (6) a dish served as the last course of a meal
+dash  : (4) distinctive and stylish elegance
+dieter: (6) a person who diets
+foetal: (6) of or relating to a fetus
+fots  : (4) a communication system using fiber optic cables
+hyla  : (4) the type genus of the Hylidae; tree toads
+nifty : (5) very good
+noria : (5) a water wheel with buckets attached to the rim; used to raise water for transfer to an irrigation channel
+ortega: (6) Nicaraguan statesman (born in 1945)
+sars  : (4) a respiratory disease of unknown etiology that apparently originated in mainland China in 2003; characterized by fever and coughing or difficulty breathing or hypoxia; can be fatal
+stag  : (4) a male deer, especially an adult male red deer
+tier  : (4) a relative position or degree of value in a graded group
+------------
+
+n a h u m  
+a g a m a  
+r u m p l e
+d a l i a n
+    e r g o
+    t e a l
+------------
+agama : (5) small terrestrial lizard of warm regions of the Old World
+agua  : (4) largest known toad species; native to Central America; valuable destroyer of insect pests
+dalian: (6) a port and shipbuilding center in northeastern China on the Liaodong Peninsula; now a part of Luda
+enol  : (4) an organic compound that contains a hydroxyl group bonded to a carbon atom which in turn is doubly bonded to another carbon atom
+ergo  : (4) (used as a sentence connector) therefore or consequently
+hamlet: (6) a community of people smaller than a village
+malaga: (6) a port city and resort in Andalusia in southern Spain on the Mediterranean
+nahum : (5) a Hebrew minor prophet of the 7th century BC
+nard  : (4) an aromatic ointment used in antiquity
+rumple: (6) disturb the smoothness of
+teal  : (4) a blue-green color or pigment
+umpire: (6) an official at a baseball game
+------------
+
+n a h u m  
+a g a m a  
+r u m p l e
+k a l i a n
+    e r g o
+    t e a l
+------------
+agama : (5) small terrestrial lizard of warm regions of the Old World
+agua  : (4) largest known toad species; native to Central America; valuable destroyer of insect pests
+enol  : (4) an organic compound that contains a hydroxyl group bonded to a carbon atom which in turn is doubly bonded to another carbon atom
+ergo  : (4) (used as a sentence connector) therefore or consequently
+hamlet: (6) a community of people smaller than a village
+kalian: (6) an oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water
+malaga: (6) a port city and resort in Andalusia in southern Spain on the Mediterranean
+nahum : (5) a Hebrew minor prophet of the 7th century BC
+nark  : (4) an informer or spy working for the police
+rumple: (6) disturb the smoothness of
+teal  : (4) a blue-green color or pigment
+umpire: (6) an official at a baseball game
+------------
